@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  </head>
+
+  <body>
+
+	<div class="container" *ngIf="productdata">
+		<div class="card">
+			<div class="container-fliud">
+				<div class="wrapper row">
+					<div class="preview col-md-6">
+						<div class="preview-pic tab-content">
+						  <div class="tab-pane active" id="pic-1"><img src="TokenAuth/wwwroot/Image/{{productdata.imagePath}}" onerror="this.src='assets/Image/no.jpg';" style="height: 380px;
+                width: 550px;" alt="Image"/>
+                <div class="tooltip">{{productdata.imagePath}}</div></div>
+						</div>
+					</div>
+					<div class="details col-md-6">
+            <div class="review-no">
+						<h3 class="product-title">{{productdata.brandName}}-{{productdata.modelName}}</h3> <div class="rating">
+            <h6 ><span  >{{productdata.transmissionType}} </span><span   >•{{productdata.engineType}} </span> <span   > •5 seats</span></h6></div>
+          </div>
+						<h4 class="price" *ngIf="!offer.isoffervalid==true">price/Day: <span>₹{{productdata.pricePerDay}}</span></h4>
+            <h4 class="price" *ngIf="offer.isoffervalid==true"  style="text-decoration: line-through;"> price/Day: <span>₹{{productdata.pricePerDay}}</span></h4>
+            <h4 class="price" *ngIf="offer.isoffervalid==true">Current price/Day: <span>₹{{productdata.pricePerDay|offer}}</span></h4>
+            <p class="product-description">{{productdata.description}}</p>
+            <h5 >Car Address:&nbsp;&nbsp;&nbsp;&nbsp;
+							<span > {{productdata.carAddress}}</span>
+						</h5><br>
+						<div class="action">
+							<button class="add-to-cart btn btn-default" type="button" routerLink="/rentalcar/{{productdata.productId}}">Book now</button>&nbsp;
+							<button class="like btn btn-default" type="button" (click)="cart(productdata)"><span class="fa fa-heart" ></span></button>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+  </body>
+</html>
+
+

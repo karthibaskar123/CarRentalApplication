@@ -1,0 +1,88 @@
+
+<head>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+  <script defer src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
+</head>
+<header>    <nav class="navbar navbar-expand-lg navbar-dark bg-dark" *ngIf="ismenerequired">
+    <div class="container-fluid"  >
+      <a class="navbar-brand" href="#" ><img src="/assets/Image/carlogo.png" style="height: 60px; width: 100px;"></a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav ms-auto mb-2 mb-lg-0" *ngIf="!isloggedIn()">
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" routerLink="">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link active" routerLink="landingpage">RentalCars</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link  active" routerLink="carservice">Service</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link active" routerLink="aboutus">About </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link active" routerLink="contactus">contact us</a>
+          </li>
+        </ul>
+
+        <ul class="navbar-nav ms-auto mb-2 mb-lg-0" *ngIf="isloggedIn()">
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" routerLink="">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link active" *ngIf="this.auth.Role=== false" routerLink="landingpage">RentalCars</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link  active" *ngIf="this.auth.Role=== false" routerLink="carservice">Service</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link active" *ngIf="this.auth.Role=== false" routerLink="aboutus">About </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link active" *ngIf="this.auth.Role=== false" routerLink="contactus">contact us</a>
+          </li>
+          <li class="nav-item" >
+            <a class="nav-link  active"  *ngIf="this.auth.Role=== true"   routerLink="addcars">AddCars</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link  active" *ngIf=" this.auth.Role=== true"  routerLink="listcars">Carlist</a>
+          </li>
+          <li class="nav-item" >
+            <a class="nav-link  active" *ngIf=" this.auth.Role=== true"  routerLink="userdetails">Users</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link active" *ngIf=" this.auth.Role=== true" routerLink="fb">Feedback</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link active" *ngIf=" this.auth.Role=== true" routerLink="booking">CustomerBooking</a>
+          </li>
+        </ul>
+        <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+
+          <li  class="nav-but" >
+            <a class="nav-link  active" *ngIf="isloggedIn()" >{{loginUserinfo.firstName}}</a>
+          </li>
+          <li  class="nav-but" *ngIf="isloggedIn() && this.auth.Role=== false">
+            <a class="nav-link  active"> <fa-icon routerLink="/myfav" [icon]="icon"></fa-icon> </a>
+
+          </li>
+          <li  class="nav-but" *ngIf="isloggedIn() && this.auth.Role=== false">
+            <a class="nav-link  active" ><fa-icon routerLink="/mybooking" [icon]="icon1"></fa-icon> MyBooking </a>
+
+          </li>
+          <li class="nav-but">
+            <a class="btn btn-outline-light" *ngIf="!isloggedIn()" routerLink="/login">Login</a>
+          </li>
+          <li class="nav-but">
+            <a class="btn btn-outline-light" *ngIf="isloggedIn()" (click)="logout()">logout</a>
+          </li>
+        </ul>
+        </div>
+    </div>
+  </nav>
+</header>
+

@@ -1,0 +1,106 @@
+
+<body style="width: auto;height: auto ; min-height: 120vh;">
+
+<nav class="navbar navbar-expand-sm navbar-light bg-white border-bottom" style="margin-left: 6%;"> <a class="navbar-brand ml-2 font-weight-bold" href="#">FORCEPAUSED</a> <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor" aria-controls="navbarColor" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
+  <app-search style="margin-left: 5%;" (searchtextchanges)="onsearchtextEnter($event)"></app-search>
+  <div class="collapse navbar-collapse" id="navbarColor">
+<div class="navbar-nav" style="margin-left: 8%; ">
+  <div class="container d-flex">
+    <div class="item">
+        <a (click)="filter('')">
+          <img src="/assets/Image/carlogo.png" style="height: 60px; width: 80px;">
+            <h6>All Cars</h6>
+        </a>
+    </div>
+    <div class="item">
+        <a (click)="filter('Luxury')">
+          <img style="height: 60px; width: 80px;" src="https://summitsoft.com/wp-content/uploads/2016/07/Bentley-logo.jpg" alt="">
+            <h6>Luxury </h6>
+        </a>
+    </div>
+    <div class="item">
+        <a (click)="filter('Affordable')">
+          <img style="height: 60px; width: 80px;"   src="https://us.123rf.com/450wm/nm09/nm092005/nm09200500087/148105140-indian-rupee-banknote-stack-icon-money-and-cash-symbol-financial-and-banking-infographic-design.jpg?ver=6" alt="">
+            <h6>Affortable </h6>
+        </a>
+    </div>
+    <div class="item">
+        <a (click)="filter('Mileagebase')">
+           <img style="height: 60px; width: 80px;" src="data:image/png;base64,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" alt="">
+            <h6>Mileage Base</h6>
+        </a>
+    </div>
+</div>
+
+</div>
+</div>
+  </nav>
+
+  <section id="sidebar">
+
+  <div>
+  <h6 class="p-1 border-bottom">Filter By</h6>
+  <div>
+    <h6 class="p-1 border-bottom">Car Type</h6>
+    <ul  style="text-align: center ;font-family: Georgia;">
+    <li ><a style="font-family: serif;" (click)="filter1('')">Alltype</a></li>
+    <li><img style="height: 30px;width: 30px;" src="https://cdn2.iconfinder.com/data/icons/vehicle-type/1024/suv-512.png"><a (click)="filter1('Suv')">Suv</a></li>
+    <li><img style="height: 30px;width: 30px;" src="https://cdn1.iconfinder.com/data/icons/car-parts-and-accessories-volume-02-1/32/sub-urban-vehicle-car-suv-muv-transport-512.png"><a (click)="filter1('Muv')">Muv</a></li>
+    <li><img style="height: 30px;width: 30px;" src="https://cdn4.iconfinder.com/data/icons/car-silhouettes/1000/sedan-256.png"><a (click)="filter1('Sedan')">Sedan</a></li>
+    <li><img style="height: 30px;width: 30px;" src="https://cdn4.iconfinder.com/data/icons/transportation-190/1000/automobile_hatch_hatchback_side_car_vehicle_view-512.png"><a (click)="filter1('Hatchback')">Hacthback</a></li>
+    <li><img style="height: 30px;width: 30px;" src="https://cdn2.iconfinder.com/data/icons/vehicle-type/1024/suv-512.png"><a (click)="filter1('CompactSuv')">Compact Suv</a></li>
+    <li><img style="height: 30px;width: 30px;" src="https://cdn4.iconfinder.com/data/icons/car-silhouettes/1000/sedan-256.png"><a (click)="filter1('CompactSedan')">Compact Sedan</a></li>
+    </ul>
+    </div>
+  <p class="mb-2">Color</p>
+  <ul class="list-group" style="text-align: center;font-family: Georgia;">
+  <li class="list-group-item list-group-item-action mb-2 rounded"><a (click)="filter2('Grey')"> <span class="fa fa-circle pr-1" id="grey"></span>Grey </a></li>
+  <li class="list-group-item list-group-item-action mb-2 rounded"><a (click)="filter2('Red')"> <span class="fa fa-circle pr-1" id="red"></span>Red </a></li>
+  </ul>
+  </div>
+
+  <div>
+  <h6>Engine Type</h6>
+  <form class="ml-md-2" style="text-align: center;font-family: Georgia;">
+  <div class="form-inline border rounded p-sm-2 my-2">  <img style="width: 30px;height: 30px;" src="https://cdn.vectorstock.com/i/1000x1000/07/56/gasoline-refueling-nozzle-or-petrol-icon-vector-45250756.webp"><a (click)="filter3('Petrol')">  <label for="Petrol" class="pl-1 pt-sm-0 pt-1">Petrol</label></a> </div>
+  <div class="form-inline border rounded p-sm-2 my-2">  <img style="width: 30px;height: 30px;" src="https://cdn4.iconfinder.com/data/icons/car-maintenance-and-service/32/gas-fuel-petrol-diesel-filling-station-gasoline-512.png"> <a (click)="filter3('Diesel')"> <label for="Diesel" class="pl-1 pt-sm-0 pt-1">Diesel</label> </a></div>
+  </form>
+  </div>
+  <div>
+    <h6>Transmission Type</h6>
+    <form class="ml-md-2" style="text-align: center;font-family: Georgia;">
+    <div class="form-inline border rounded p-sm-2 my-2 p-sm-1"> <img style="width: 30px;height: 30px;" src="https://cdn1.iconfinder.com/data/icons/rcons-transport/32/transmission_manual-256.png"><a (click)="filter4('Manual')">  <label for="Manual" class="pl-1 pt-sm-0 pt-1">Manual</label></a> </div>
+    <div class="form-inline border rounded p-sm-2 my-2 p-sm-1"> <img style="width: 30px;height: 30px;" src="https://cdn4.iconfinder.com/data/icons/simple-goods-services-outline/30/automatictransmisson-512.png"> <a (click)="filter4('Automatic')"> <label for="Automatic" class="pl-1 pt-sm-0 pt-1">Automatic</label> </a></div>
+    </form>
+    </div>
+  </section>
+
+  <div class="container" >
+    <div class="row">
+        <ng-container *ngFor="let item of filterCategory ">
+            <div class="card col-md-3"  *ngIf="searchtext ===''||item.brandName.toLowerCase().includes(searchtext)">
+              <div class="image-container">
+                <img src="TokenAuth/wwwroot/Image/{{item.imagePath}}" onerror="this.src='assets/Image/no.jpg';" alt="Image"/>
+                <div class="tooltip">{{item.imagePath}}</div>
+              </div>
+                <div style="margin-top: 3%;">
+                <h6 style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; ">{{item.brandName}} {{item.modelName}}</h6>
+                <p style="font-family: sans-serif;font-size: 15px;"><span  >{{item.transmissionType}} </span><span  >•{{item.engineType}} </span> <span> •5 seats</span></p>
+                <p style="font-family: arialnarrow"*ngIf="!offer.isoffervalid==true"><strong>Price/day:</strong> Rs{{item.pricePerDay}}</p>
+                <p  *ngIf="offer.isoffervalid===true" style="text-decoration: line-through;"><strong>Price/day:</strong> Rs{{item.pricePerDay}}</p>
+                <p *ngIf="offer.isoffervalid===true"><strong>Discount Price/day:</strong> Rs{{item.pricePerDay|offer}}</p>
+                <div class="product-footer">
+                  <button *ngIf="isloggedIn()" class="btn btn-secondary" ><a style="cursor: pointer;" (click)="cart(item)" >Add  Favorite</a></button>&nbsp;&nbsp;
+                  <a routerLink="/cardetails/{{item.productId}}"><button class="btn btn-primary" >View Details</button></a>&nbsp;&nbsp;
+                  <button class="btn btn-success" routerLink="/rentalcar/{{item.productId}}" >Book Now</button></div>
+                </div>
+            </div>
+        </ng-container>
+    </div>
+  </div>
+
+  <div  style="text-align: center;">
+    <pagination-controls (pageChange)="page = $event"></pagination-controls>
+  </div>
+</body>
+

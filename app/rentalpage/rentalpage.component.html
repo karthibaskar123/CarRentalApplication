@@ -1,0 +1,168 @@
+<form [formGroup]="bookingData">
+<div class="container" *ngIf="productdata" style="margin-left: 15%; margin-top: -0%;">
+  <div class="row m-0">
+      <div class="col-lg-7 pb-5 pe-lg-5">
+          <div class="row">
+              <div class="col-12 p-5">
+                <div class="image-container">
+                  <img  class="product-img" src = "TokenAuth/wwwroot/Image/{{productdata.imagePath}}"  onerror="this.src='assets/Image/no.jpg';" alt="Image"/>
+                  <div class="tooltip">{{productdata.imagePath}}</div>
+                </div>
+
+              </div>
+              <div class="row m-0 bg-light">
+                  <div class="col-md-4 col-6 ps-30 pe-0 my-4">
+                      <p class="text-muted">Km Driven</p>
+                      <p class="h5">{{productdata.kilometersDriven}}<span class="ps-1">Km</span></p>
+                  </div>
+                  <div class="col-md-4 col-6  ps-30 my-4">
+                      <p class="text-muted">Transmission</p>
+                      <p class="h5 m-0">{{productdata.transmissionType}}</p>
+                  </div>
+                  <div class="col-md-4 col-6 ps-30 my-4">
+                      <p class="text-muted">Engine Type</p>
+                      <p class="h5 m-0">{{productdata.engineType}}</p>
+                  </div>
+                  <div class="col-md-4 col-6 ps-30 my-4">
+                      <p class="text-muted">Type</p>
+                      <p class="h5 m-0">{{productdata.type}}</p>
+                  </div>
+                  <div class="col-md-4 col-6 ps-30 my-4">
+                      <p class="text-muted">Color</p>
+                      <p class="h5 m-0">{{productdata.color}}</p>
+                  </div>
+                  <div class="col-md-4 col-6 ps-30 my-4">
+                    <p class="text-muted">Location</p>
+                    <p class="h5 m-0">{{productdata.location}}</p>
+                </div>
+                  <div class="col-md-8 col-9 ps-30 my-4">
+                    <p class="text-muted">Address</p>
+                    <p class="h5 m-0">{{productdata.carAddress}}</p>
+                </div>
+
+
+              </div>
+          </div>
+      </div>
+      <div class="col-lg-5 p-0 ps-lg-4">
+          <div class="row m-0">
+
+
+              <div class="col-12 px-0">
+                  <div class="row bg-light m-0">
+                      <div class="col-12 px-4 my-4">
+                          <p class="fw-bold">Rental detail</p>
+                      </div>
+                      <div class="col-12 px-4">
+                          <div class="d-flex  mb-4">
+                              <span class="">
+                                  <p class="text-muted">Rent Date</p>
+                                  <input class="form-control" type="date" min="{{currentdate|date:'yyyy-MM-dd'}}"   formControlName="rentDate" [value]="Todaysdate">
+                                  <div *ngIf="bookingData.get('rentDate')?.hasError('required') && bookingData.get('rentDate')?.touched">
+                                    <span style="color: red;">Please Choose RentDate.</span>
+                                  </div>
+                              </span>
+                              <div class=" w-100 d-flex flex-column align-items-end">
+                                <span class="">
+                                  <p class="text-muted">Return Date</p>
+                                  <input class="form-control" type="date"min="{{currentdate|date:'yyyy-MM-dd'}}" formControlName="returnDate" (ngModelChange)="calculate()">
+                                  <div *ngIf="bookingData.get('returnDate')?.hasError('required') && bookingData.get('returnDate')?.touched">
+                                    <span style="color: red;">Please Choose ReturnDate.</span>
+                                  </div>
+                              </span>
+                              </div>
+                          </div>
+                          <div class="d-flex mb-5">
+                              <span class="me-5">
+                                  <p class="text-muted">Enter Driving licence</p>
+                                  <input class="form-control"  formControlName="drivingLicenceNumber" type="text" placeholder="Licence Number" >
+                                  <div *ngIf="bookingData.get('drivingLicenceNumber')?.hasError('required') && bookingData.get('drivingLicenceNumber')?.touched">
+                                    <span style="color: red;">Please Enter DrivingLicenceNumber.</span>
+                                  </div>
+                                  <div *ngIf="bookingData.get('drivingLicenceNumber')?.hasError('pattern') && bookingData.get('drivingLicenceNumber')?.touched">
+                                    <span style="color: red;">Invalid data. Please use Charector.</span>
+                                  </div>
+                              </span>
+                              <div class=" w-100 d-flex flex-column align-items-end">
+                                <span class="me-5">
+                                  <p class="text-muted">Submit Driving licence</p>
+                                  <input class="form-control" (change)="onFileSelected($event)"  type="file" >
+                                  <div *ngIf="bookingData.get('drivingLicenceImage')?.hasError('required') && bookingData.get('drivingLicenceImage')?.touched">
+                                    <span style="color: red;">Please Choose DrivingLicenceImage.</span>
+                                  </div>
+                              </span>
+                            </div>
+                          </div>
+                          <div class="d-flex mb-5">
+                            <span class="me-5">
+                              <p class="text-muted">Address</p>
+                              <input class="form-control" formControlName="customerAddress" type="text"placeholder="Customor Address">
+                              <div *ngIf="bookingData.get('customerAddress')?.hasError('required') && bookingData.get('customerAddress')?.touched">
+                                <span style="color: red;">Please Enter CustomerAddress.</span>
+                              </div>
+                              <div *ngIf="bookingData.get('customerAddress')?.hasError('pattern') && bookingData.get('customerAddress')?.touched">
+                                <span style="color: red;">Invalid data. Please use Charector.</span>
+                              </div>
+                            </span>
+                            <div class=" w-100 d-flex flex-column align-items-end">
+                              <span >
+                                <p class="text-muted">Pickup</p>
+                                <label><input type="radio" formControlName="shippingType" (ngModelChange)="calculate()" value="SelfPickUp">Self Pickup</label>
+                                <label><input type="radio" formControlName="shippingType" (ngModelChange)="calculate()" value="DoorDelivery">Door Delivery </label>
+                                <div *ngIf="bookingData.get('shippingType')?.hasError('required') && bookingData.get('shippingType')?.touched">
+                                  <span style="color: red;">Please Choose ShippingType.</span>
+                                </div>
+                            </span>
+                        </div>
+                        </div>
+
+                     </div>
+                  </div>
+                  <div class="row m-0">
+                      <div class="col-12  mb-4 p-0">
+                          <button class="btn btn-primary" routerLink="/payment/{{productdata.bookingId}}"  (click)="onSubmit()" type="submit">Check Out<span class="fas fa-arrow-right ps-2"></span>
+                          </button>
+
+
+                      </div>
+                  </div>
+              </div>
+              <div  class="col-12 px-4">
+                <div class="d-flex align-items-end mt-4 mb-2">
+                    <p class="h4 m-0"><span class="pe-1">Tata</span><span class="pe-1">Tiago</span>
+                    <P class="ps-3 textmuted">(Fare Summary)</P>
+                </div>
+                <div class="d-flex justify-content-between mb-2">
+                    <p class="textmuted">Price </p>
+                    <p *ngIf="!offer.isoffervalid==true" class="fs-14 fw-bold">Rs{{productdata.pricePerDay}} /Day</p>
+                    <p *ngIf="offer.isoffervalid==true" class="fs-14 fw-bold">Rs{{productdata.pricePerDay|offer}} /Day</p>
+                </div>
+                <div class="d-flex justify-content-between mb-2">
+                    <p class="textmuted">Number of days</p>
+                    <p class="fs-14 fw-bold">{{this.Days}}</p>
+                </div>
+                <div class="d-flex justify-content-between mb-2">
+                    <p class="textmuted">Rental Amount</p>
+                    <p class="fs-14 fw-bold"><span class="fas fa-rupee-sign pe-1"></span>{{rentalamount}}</p>
+                </div>
+                <div class="d-flex justify-content-between mb-2">
+                    <p class="textmuted">Refundable Deposit</p>
+                    <p class="fs-14 fw-bold"><span class="fas fa-rupee-sign px-1"></span>{{productdata.refundAmount}}</p>
+                </div>
+                <div class="d-flex justify-content-between mb-2">
+                  <p class="textmuted">Convenience Fee</p>
+                  <p class="fs-14 fw-bold"><span class="fas fa-rupee-sign px-1"></span>50</p>
+              </div>
+                <div class="d-flex justify-content-between mb-3">
+                    <p class="textmuted fw-bold">Total</p>
+                    <div class="d-flex align-text-top ">
+                        <span class="fas fa-rupee-sign mt-1 pe-1 fs-14 "></span><span class="h4">{{this.totalamount}}</span>
+                    </div>
+                </div>
+            </div>
+          </div>
+
+      </div>
+  </div>
+</div>
+</form>

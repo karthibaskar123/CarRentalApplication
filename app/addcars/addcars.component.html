@@ -1,0 +1,167 @@
+<body>
+<form [formGroup]="productData" (ngSubmit)="onSubmit()">
+  <h3 style="text-align: center;">Create Car Details</h3>
+  <div class="form-group row">
+    <label for="inputPassword" class="col-sm-2 col-form-label">Brandname</label>
+    <div class="col-sm-10">
+      <input type="text" class="form-control" formControlName="brandName" placeholder="BrandName">
+      <div *ngIf="productData.get('brandName')?.hasError('required') && productData.get('brandName')?.touched">
+        <span style="color: red;">Please Enter BrandName.</span>
+      </div>
+      <div *ngIf="productData.get('brandName')?.hasError('pattern') && productData.get('brandName')?.touched">
+        <span style="color: red;">Invalid data. Please use Charector Only.</span>
+      </div>
+    </div>
+  </div>
+  <div class="form-group row">
+    <label for="inputPassword" class="col-sm-2 col-form-label">Modelname</label>
+    <div class="col-sm-10">
+      <input type="text" class="form-control" formControlName="modelName" placeholder="ModelName">
+      <div *ngIf="productData.get('modelName')?.hasError('required') && productData.get('modelName')?.touched">
+        <span style="color: red;">Please Enter Modelname.</span>
+      </div>
+      <div *ngIf="productData.get('modelName')?.hasError('pattern') && productData.get('modelName')?.touched">
+        <span style="color: red;">Invalid data. Please use Charector Only.</span>
+      </div>
+    </div>
+  </div>
+  <div class="form-group row">
+    <label for="inputPassword" class="col-sm-2 col-form-label">Type</label>
+    <div class="col-sm-10">
+      <label><input type="radio" formControlName="type" value="Suv"> Suv</label>
+      <label><input type="radio" formControlName="type" value="Sedan"> Sedan</label>
+      <label><input type="radio" formControlName="type" value="Hatchback"> Hatchback</label>
+      <label><input type="radio" formControlName="type" value="Muv"> Muv</label>
+      <label><input type="radio" formControlName="type" value="CompactSuv"> CompactSuv</label>
+      <label><input type="radio" formControlName="type" value="CompactSedan"> CompactSedan</label>
+      <div *ngIf="productData.get('type')?.hasError('required') && productData.get('type')?.touched">
+        <span style="color: red;">Please Choose Type.</span>
+      </div>
+    </div>
+  </div>
+  <div class="form-group row">
+    <label for="inputPassword" class="col-sm-2 col-form-label">kmdriven</label>
+    <div class="col-sm-10">
+      <input type="text" class="form-control" formControlName="kilometersDriven" placeholder="kilometersDriven">
+      <div *ngIf="productData.get('kilometersDriven')?.hasError('required') && productData.get('kilometersDriven')?.touched">
+        <span style="color: red;">Please Enter kilometersDriven.</span>
+      </div>
+      <div *ngIf="productData.get('kilometersDriven')?.hasError('pattern') && productData.get('kilometersDriven')?.touched">
+        <span style="color: red;">Invalid data. Please use Number Only.</span>
+      </div>
+    </div>
+  </div>
+  <div class="form-group row">
+    <label for="inputPassword" class="col-sm-2 col-form-label">Price / Day</label>
+    <div class="col-sm-10">
+      <input type="text" class="form-control" formControlName="pricePerDay" placeholder="Price / Day">
+      <div *ngIf="productData.get('pricePerDay')?.hasError('required') && productData.get('pricePerDay')?.touched">
+        <span style="color: red;">Please Enter priceperday.</span>
+      </div>
+      <div *ngIf="productData.get('pricePerDay')?.hasError('pattern') && productData.get('pricePerDay')?.touched">
+        <span style="color: red;">Invalid data. Please use Number Only.</span>
+      </div>
+    </div>
+  </div>
+  <div class="form-group row">
+    <label for="inputPassword" class="col-sm-2 col-form-label">Image</label>
+    <div class="col-sm-10">
+      <input type="file"  (change)="onFileSelected($event)" class="form-control"  placeholder="Image"  accept="image/jpeg, image/png,image/avif" >
+      <div *ngIf="productData.get('Imagepath')?.hasError('required') && productData.get('Imagepath')?.touched">
+        <span style="color: red;">Please Choose Imagepath.</span>
+      </div>
+    </div>
+  </div>
+  <div class="form-group row">
+    <label for="inputPassword" class="col-sm-2 col-form-label">Color</label>
+    <div class="col-sm-10">
+      <input type="text" class="form-control" formControlName="color" placeholder="Color">
+      <div *ngIf="productData.get('color')?.hasError('required') && productData.get('color')?.touched">
+        <span style="color: red;">Please Enter color.</span>
+      </div>
+      <div *ngIf="productData.get('color')?.hasError('pattern') && productData.get('color')?.touched">
+        <span style="color: red;">Invalid data. Please use Charector Only.</span>
+      </div>
+    </div>
+  </div>
+  <div class="form-group row">
+    <label for="inputPassword" class="col-sm-2 col-form-label">Description</label>
+    <div class="col-sm-10">
+      <input type="text" class="form-control" formControlName="description" placeholder="description">
+      <div *ngIf="productData.get('description')?.hasError('required') && productData.get('description')?.touched">
+        <span style="color: red;">Please Enter Description.</span>
+      </div>
+      <div *ngIf="productData.get('description')?.hasError('pattern') && productData.get('description')?.touched">
+        <span style="color: red;">Invalid data. Please use Charector,Number,special charector.</span>
+      </div>
+    </div>
+  </div>
+  <div class="form-group row">
+    <label for="inputPassword" class="col-sm-2 col-form-label">Location</label>
+    <div class="col-sm-10">
+      <input type="text" class="form-control" formControlName="location" placeholder="Location">
+      <div *ngIf="productData.get('location')?.hasError('required') && productData.get('location')?.touched">
+        <span style="color: red;">Please Enter Location.</span>
+      </div>
+      <div *ngIf="productData.get('location')?.hasError('pattern') && productData.get('location')?.touched">
+        <span style="color: red;">Invalid data. Please use Charector Only.</span>
+      </div>
+    </div>
+  </div>
+  <div class="form-group row">
+    <label for="inputPassword" class="col-sm-2 col-form-label">CarAddress</label>
+    <div class="col-sm-10">
+      <input type="text" class="form-control" formControlName="carAddress" placeholder="CarAddress">
+      <div *ngIf="productData.get('carAddress')?.hasError('required') && productData.get('carAddress')?.touched">
+        <span style="color: red;">Please Enter CarAddress.</span>
+      </div>
+      <div *ngIf="productData.get('carAddress')?.hasError('pattern') && productData.get('carAddress')?.touched">
+        <span style="color: red;">Invalid data. Please use Charector.</span>
+      </div>
+    </div>
+  </div>
+  <div class="form-group row">
+    <label for="inputPassword" class="col-sm-2 col-form-label">Category</label>
+    <div class="col-sm-10"  >
+      <select class="control"  formControlName="category">
+        <option value="Affordable">Affordable</option>
+        <option value="Luxury">Luxury</option>
+        <option value="Mileagebase">Mileage base</option>
+      </select>
+    </div>
+  </div>
+  <div class="form-group row">
+    <label for="inputPassword" class="col-sm-2 col-form-label">Transmissiontype</label>
+    <div class="col-sm-10">
+        <label><input type="radio" formControlName="transmissionType" value="Manual"> Manual</label>
+        <label><input type="radio" formControlName="transmissionType" value="Automatic"> Automatic</label>
+        <div *ngIf="productData.get('transmissionType')?.hasError('required') && productData.get('transmissionType')?.touched">
+          <span style="color: red;">Please Choose Transmissiontype.</span>
+        </div>
+    </div>
+  </div>
+  <div class="form-group row">
+    <label for="inputPassword" class="col-sm-2 col-form-label">Enginetype</label>
+    <div class="col-sm-10">
+      <label><input type="radio" formControlName="engineType" value="Petrol"> Petrol</label>
+        <label><input type="radio" formControlName="engineType" value="Diesel"> Diesel</label>
+        <div *ngIf="productData.get('engineType')?.hasError('required') && productData.get('engineType')?.touched">
+          <span style="color: red;">Please Choose Enginetype.</span>
+        </div>
+    </div>
+  </div>
+  <div class="form-group row">
+    <label for="inputPassword" class="col-sm-2 col-form-label">Refundable Deposite</label>
+    <div class="col-sm-10">
+      <input type="text" class="form-control" formControlName="refundAmount" placeholder="RefundAmount">
+    </div>
+    <div *ngIf="productData.get('refundAmount')?.hasError('required') && productData.get('refundAmount')?.touched">
+      <span style="color: red;">Please Enter RefundAmount.</span>
+    </div>
+    <div *ngIf="productData.get('refundAmount')?.hasError('pattern') && productData.get('refundAmount')?.touched">
+      <span style="color: red;">Invalid data. Please use Number or Decimal.</span>
+    </div>
+  </div><br>
+  <button style="margin-left: 48%;"  [disabled]="productData.untouched"  class="btn btn-primary">submit</button>
+</form>
+</body>

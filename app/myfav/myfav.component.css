@@ -1,0 +1,23 @@
+.card-table
+{
+  height: 60vh;
+  margin: 25px;
+  padding: 25px;
+  margin-left: -21%;
+}
+.center
+{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  text-align: center;
+
+}
+.card{
+  height: 70vh;
+  margin: 25px;
+  padding: 25px;
+
+
+}

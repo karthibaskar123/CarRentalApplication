@@ -1,0 +1,59 @@
+<body style="width: auto;height: auto ; min-height: 120vh;">
+  <section class="w-100">
+  <div style="color: aquamarine;" >
+  <div class="product-list">
+    <br>
+    <div style="text-align: center;">
+      <h2>product offer upto 10%</h2>
+    <button (click)="offer.offer()">Turn on Offer</button>
+    </div>
+    <br>
+    <h2 style="text-align: center;">Cars list</h2><br>
+    <div class="seach-hero" style="margin:auto;">
+      <span>Search:</span>
+      <input type="text" name="Search" [(ngModel)]="searchtext" placeholder="Search Cars">
+    </div><br>
+    <table class="tableadjus">
+      <thead>
+        <tr>
+          <th>Car ID</th>
+          <th>Image</th>
+          <th>Brandname</th>
+          <th>Modelname</th>
+          <th>RentalPrice</th>
+          <th>Category</th>
+          <th>kilometersDriven</th>
+          <th>Description</th>
+          <th>Action</th>
+        </tr>
+
+      </thead>
+      <tbody>
+        <tr *ngFor="let item of products | search:searchtext | paginate:{itemsPerPage:itemsPerPage,currentPage:page}">
+        <td>{{item.productId}}</td>
+        <td><img src = "TokenAuth/wwwroot/Image/{{item.imagePath}}"/></td>
+        <td>{{item.brandName}}</td>
+        <td>{{item.modelName}}</td>
+        <td><p *ngIf="!offer.isoffervalid==true"><strong>Price/day:</strong> {{item.pricePerDay|currency:'INR':'symbol-narrow'}}</p>
+          <p  *ngIf="offer.isoffervalid===true" style="text-decoration: line-through;"><strong>Price/day:</strong> Rs{{item.priceperday}}</p>
+          <p *ngIf="offer.isoffervalid===true"><strong>Discount Price/day:</strong> Rs{{item.priceperday|offer}}</p></td>
+        <td>{{item.category}}</td>
+        <td>{{item.kilometersDriven}}</td>
+        <td>{{item.description}}</td>
+        <td >
+          <fa-icon (click)="delete(item.productId)" [icon]="icon"></fa-icon>
+          <a class="adjust" routerLink="/update/{{item.productId}}"><fa-icon [icon]="editicon" ></fa-icon></a>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  </div>
+  <br>
+  </section>
+  <div  style="text-align: center;">
+    <pagination-controls (pageChange)="page = $event"></pagination-controls>
+  </div>
+
+
+  </body>

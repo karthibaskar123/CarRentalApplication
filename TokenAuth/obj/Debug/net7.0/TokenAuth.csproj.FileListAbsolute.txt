@@ -1,0 +1,1457 @@
+D:\Project\jwt token\TokenAuth\bin\Debug\net7.0\appsettings.Development.json
+D:\Project\jwt token\TokenAuth\bin\Debug\net7.0\appsettings.json
+D:\Project\jwt token\TokenAuth\bin\Debug\net7.0\TokenAuth.exe
+D:\Project\jwt token\TokenAuth\bin\Debug\net7.0\TokenAuth.deps.json
+D:\Project\jwt token\TokenAuth\bin\Debug\net7.0\TokenAuth.runtimeconfig.json
+D:\Project\jwt token\TokenAuth\bin\Debug\net7.0\TokenAuth.dll
+D:\Project\jwt token\TokenAuth\bin\Debug\net7.0\TokenAuth.pdb
+D:\Project\jwt token\TokenAuth\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Project\jwt token\TokenAuth\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Project\jwt token\TokenAuth\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Project\jwt token\TokenAuth\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Project\jwt token\TokenAuth\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Project\jwt token\TokenAuth\obj\Debug\net7.0\TokenAuth.csproj.AssemblyReference.cache
+D:\Project\jwt token\TokenAuth\obj\Debug\net7.0\TokenAuth.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\jwt token\TokenAuth\obj\Debug\net7.0\TokenAuth.AssemblyInfoInputs.cache
+D:\Project\jwt token\TokenAuth\obj\Debug\net7.0\TokenAuth.AssemblyInfo.cs
+D:\Project\jwt token\TokenAuth\obj\Debug\net7.0\TokenAuth.csproj.CoreCompileInputs.cache
+D:\Project\jwt token\TokenAuth\obj\Debug\net7.0\TokenAuth.MvcApplicationPartsAssemblyInfo.cs
+D:\Project\jwt token\TokenAuth\obj\Debug\net7.0\TokenAuth.MvcApplicationPartsAssemblyInfo.cache
+D:\Project\jwt token\TokenAuth\obj\Debug\net7.0\staticwebassets\msbuild.TokenAuth.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Project\jwt token\TokenAuth\obj\Debug\net7.0\staticwebassets\msbuild.build.TokenAuth.props
+D:\Project\jwt token\TokenAuth\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TokenAuth.props
+D:\Project\jwt token\TokenAuth\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TokenAuth.props
+D:\Project\jwt token\TokenAuth\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Project\jwt token\TokenAuth\obj\Debug\net7.0\staticwebassets.build.json
+D:\Project\jwt token\TokenAuth\obj\Debug\net7.0\staticwebassets.development.json
+D:\Project\jwt token\TokenAuth\obj\Debug\net7.0\scopedcss\bundle\TokenAuth.styles.css
+D:\Project\jwt token\TokenAuth\obj\Debug\net7.0\TokenAuth.csproj.CopyComplete
+D:\Project\jwt token\TokenAuth\obj\Debug\net7.0\TokenAuth.dll
+D:\Project\jwt token\TokenAuth\obj\Debug\net7.0\refint\TokenAuth.dll
+D:\Project\jwt token\TokenAuth\obj\Debug\net7.0\TokenAuth.pdb
+D:\Project\jwt token\TokenAuth\obj\Debug\net7.0\TokenAuth.genruntimeconfig.cache
+D:\Project\jwt token\TokenAuth\obj\Debug\net7.0\ref\TokenAuth.dll
+D:\Project\jwt token\TokenAuth\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Project\jwt token\TokenAuth\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Project\jwt token\TokenAuth\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Project\jwt token\TokenAuth\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Project\jwt token\TokenAuth\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Project\jwt token\TokenAuth\bin\Debug\net7.0\Azure.Core.dll
+D:\Project\jwt token\TokenAuth\bin\Debug\net7.0\Azure.Identity.dll
+D:\Project\jwt token\TokenAuth\bin\Debug\net7.0\Humanizer.dll
+D:\Project\jwt token\TokenAuth\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Project\jwt token\TokenAuth\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Project\jwt token\TokenAuth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Project\jwt token\TokenAuth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Project\jwt token\TokenAuth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Project\jwt token\TokenAuth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Project\jwt token\TokenAuth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Project\jwt token\TokenAuth\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Project\jwt token\TokenAuth\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Project\jwt token\TokenAuth\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Project\jwt token\TokenAuth\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Project\jwt token\TokenAuth\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Project\jwt token\TokenAuth\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Project\jwt token\TokenAuth\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Project\jwt token\TokenAuth\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Project\jwt token\TokenAuth\bin\Debug\net7.0\System.CodeDom.dll
+D:\Project\jwt token\TokenAuth\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Project\jwt token\TokenAuth\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Project\jwt token\TokenAuth\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Project\jwt token\TokenAuth\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Project\jwt token\TokenAuth\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project\jwt token\TokenAuth\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Project\jwt token\TokenAuth\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Project\jwt token\TokenAuth\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Project\jwt token\TokenAuth\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Project\jwt token\TokenAuth\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\jwt token\TokenAuth\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\jwt token\TokenAuth\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\jwt token\TokenAuth\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\jwt token\TokenAuth\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Project\jwt token\TokenAuth\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Project\jwt token\TokenAuth\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Project\jwt token\TokenAuth\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Project\jwt token\TokenAuth\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project\jwt token\TokenAuth\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Project\jwt token\TokenAuth\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Project\jwt token\TokenAuth\bin\Debug\net7.0\Scrutor.dll
+D:\Project\jwt token\TokenAuth\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.dll
+D:\Project\jwt token\TokenAuth\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\bin\Debug\net7.0\appsettings.Development.json
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\bin\Debug\net7.0\appsettings.json
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\bin\Debug\net7.0\TokenAuth.exe
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\bin\Debug\net7.0\TokenAuth.deps.json
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\bin\Debug\net7.0\TokenAuth.runtimeconfig.json
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\bin\Debug\net7.0\TokenAuth.dll
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\bin\Debug\net7.0\TokenAuth.pdb
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\bin\Debug\net7.0\Azure.Core.dll
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\bin\Debug\net7.0\Azure.Identity.dll
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\bin\Debug\net7.0\Humanizer.dll
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\bin\Debug\net7.0\Scrutor.dll
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.dll
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\bin\Debug\net7.0\System.CodeDom.dll
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\bin\Debug\net7.0\System.Memory.Data.dll
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\obj\Debug\net7.0\TokenAuth.csproj.AssemblyReference.cache
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\obj\Debug\net7.0\TokenAuth.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\obj\Debug\net7.0\TokenAuth.AssemblyInfoInputs.cache
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\obj\Debug\net7.0\TokenAuth.AssemblyInfo.cs
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\obj\Debug\net7.0\TokenAuth.csproj.CoreCompileInputs.cache
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\obj\Debug\net7.0\TokenAuth.MvcApplicationPartsAssemblyInfo.cs
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\obj\Debug\net7.0\TokenAuth.MvcApplicationPartsAssemblyInfo.cache
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\obj\Debug\net7.0\staticwebassets\msbuild.TokenAuth.Microsoft.AspNetCore.StaticWebAssets.props
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\obj\Debug\net7.0\staticwebassets\msbuild.build.TokenAuth.props
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TokenAuth.props
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TokenAuth.props
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\obj\Debug\net7.0\staticwebassets.pack.json
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\obj\Debug\net7.0\staticwebassets.build.json
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\obj\Debug\net7.0\staticwebassets.development.json
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\obj\Debug\net7.0\scopedcss\bundle\TokenAuth.styles.css
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\obj\Debug\net7.0\TokenAuth.csproj.CopyComplete
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\obj\Debug\net7.0\TokenAuth.dll
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\obj\Debug\net7.0\refint\TokenAuth.dll
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\obj\Debug\net7.0\TokenAuth.pdb
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\obj\Debug\net7.0\TokenAuth.genruntimeconfig.cache
+D:\MVC Project\Sample codes for mvc concepts\jwt token\TokenAuth\obj\Debug\net7.0\ref\TokenAuth.dll
+D:\TokenAuth\bin\Debug\net7.0\appsettings.Development.json
+D:\TokenAuth\bin\Debug\net7.0\appsettings.json
+D:\TokenAuth\bin\Debug\net7.0\TokenAuth.exe
+D:\TokenAuth\bin\Debug\net7.0\TokenAuth.deps.json
+D:\TokenAuth\bin\Debug\net7.0\TokenAuth.runtimeconfig.json
+D:\TokenAuth\bin\Debug\net7.0\TokenAuth.dll
+D:\TokenAuth\bin\Debug\net7.0\TokenAuth.pdb
+D:\TokenAuth\bin\Debug\net7.0\Azure.Core.dll
+D:\TokenAuth\bin\Debug\net7.0\Azure.Identity.dll
+D:\TokenAuth\bin\Debug\net7.0\Humanizer.dll
+D:\TokenAuth\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\TokenAuth\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\TokenAuth\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\TokenAuth\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\TokenAuth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\TokenAuth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\TokenAuth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\TokenAuth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\TokenAuth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\TokenAuth\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\TokenAuth\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\TokenAuth\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\TokenAuth\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\TokenAuth\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TokenAuth\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\TokenAuth\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\TokenAuth\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TokenAuth\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\TokenAuth\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\TokenAuth\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\TokenAuth\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\TokenAuth\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\TokenAuth\bin\Debug\net7.0\Scrutor.dll
+D:\TokenAuth\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.dll
+D:\TokenAuth\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+D:\TokenAuth\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\TokenAuth\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\TokenAuth\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\TokenAuth\bin\Debug\net7.0\System.CodeDom.dll
+D:\TokenAuth\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\TokenAuth\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\TokenAuth\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\TokenAuth\bin\Debug\net7.0\System.Memory.Data.dll
+D:\TokenAuth\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\TokenAuth\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\TokenAuth\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\TokenAuth\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\TokenAuth\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\TokenAuth\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\TokenAuth\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TokenAuth\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TokenAuth\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TokenAuth\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TokenAuth\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\TokenAuth\obj\Debug\net7.0\TokenAuth.csproj.AssemblyReference.cache
+D:\TokenAuth\obj\Debug\net7.0\TokenAuth.GeneratedMSBuildEditorConfig.editorconfig
+D:\TokenAuth\obj\Debug\net7.0\TokenAuth.AssemblyInfoInputs.cache
+D:\TokenAuth\obj\Debug\net7.0\TokenAuth.AssemblyInfo.cs
+D:\TokenAuth\obj\Debug\net7.0\TokenAuth.csproj.CoreCompileInputs.cache
+D:\TokenAuth\obj\Debug\net7.0\TokenAuth.MvcApplicationPartsAssemblyInfo.cs
+D:\TokenAuth\obj\Debug\net7.0\TokenAuth.MvcApplicationPartsAssemblyInfo.cache
+D:\TokenAuth\obj\Debug\net7.0\staticwebassets\msbuild.TokenAuth.Microsoft.AspNetCore.StaticWebAssets.props
+D:\TokenAuth\obj\Debug\net7.0\staticwebassets\msbuild.build.TokenAuth.props
+D:\TokenAuth\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TokenAuth.props
+D:\TokenAuth\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TokenAuth.props
+D:\TokenAuth\obj\Debug\net7.0\staticwebassets.pack.json
+D:\TokenAuth\obj\Debug\net7.0\staticwebassets.build.json
+D:\TokenAuth\obj\Debug\net7.0\staticwebassets.development.json
+D:\TokenAuth\obj\Debug\net7.0\scopedcss\bundle\TokenAuth.styles.css
+D:\TokenAuth\obj\Debug\net7.0\TokenAuth.csproj.CopyComplete
+D:\TokenAuth\obj\Debug\net7.0\TokenAuth.dll
+D:\TokenAuth\obj\Debug\net7.0\refint\TokenAuth.dll
+D:\TokenAuth\obj\Debug\net7.0\TokenAuth.pdb
+D:\TokenAuth\obj\Debug\net7.0\TokenAuth.genruntimeconfig.cache
+D:\TokenAuth\obj\Debug\net7.0\ref\TokenAuth.dll
+D:\TokenAuth\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\TokenAuth\bin\Debug\net7.0\Microsoft.Build.dll
+D:\TokenAuth\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\TokenAuth\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\TokenAuth\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\TokenAuth\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\TokenAuth\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\TokenAuth\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\TokenAuth\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\TokenAuth\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\TokenAuth\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\TokenAuth\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\TokenAuth\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\TokenAuth\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\TokenAuth\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\TokenAuth\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\TokenAuth\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\TokenAuth\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\TokenAuth\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\TokenAuth\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\TokenAuth\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\TokenAuth\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\TokenAuth\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\TokenAuth\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\TokenAuth\bin\Debug\net7.0\NuGet.Common.dll
+D:\TokenAuth\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\TokenAuth\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\TokenAuth\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\TokenAuth\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\TokenAuth\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\TokenAuth\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\TokenAuth\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\TokenAuth\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\TokenAuth\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\TokenAuth\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\TokenAuth\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\TokenAuth\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\TokenAuth\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\TokenAuth\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\TokenAuth\bin\Debug\net7.0\af\Humanizer.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\ar\Humanizer.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\az\Humanizer.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\bg\Humanizer.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\cs\Humanizer.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\da\Humanizer.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\de\Humanizer.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\el\Humanizer.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\es\Humanizer.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\fa\Humanizer.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\fr\Humanizer.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\he\Humanizer.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\hr\Humanizer.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\hu\Humanizer.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\hy\Humanizer.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\id\Humanizer.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\is\Humanizer.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\it\Humanizer.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\ja\Humanizer.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\ku\Humanizer.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\lv\Humanizer.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\mt\Humanizer.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\nb\Humanizer.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\nl\Humanizer.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\pl\Humanizer.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\pt\Humanizer.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\ro\Humanizer.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\ru\Humanizer.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\sk\Humanizer.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\sl\Humanizer.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\sr\Humanizer.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\sv\Humanizer.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\tr\Humanizer.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\uk\Humanizer.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\vi\Humanizer.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TokenAuth\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\TokenAuth\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\TokenAuth\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\TokenAuth\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\TokenAuth\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\project details\tokenauth\bin\Debug\net7.0\appsettings.Development.json
+D:\project details\tokenauth\bin\Debug\net7.0\appsettings.json
+D:\project details\tokenauth\bin\Debug\net7.0\TokenAuth.exe
+D:\project details\tokenauth\bin\Debug\net7.0\TokenAuth.deps.json
+D:\project details\tokenauth\bin\Debug\net7.0\TokenAuth.runtimeconfig.json
+D:\project details\tokenauth\bin\Debug\net7.0\TokenAuth.dll
+D:\project details\tokenauth\bin\Debug\net7.0\TokenAuth.pdb
+D:\project details\tokenauth\bin\Debug\net7.0\Azure.Core.dll
+D:\project details\tokenauth\bin\Debug\net7.0\Azure.Identity.dll
+D:\project details\tokenauth\bin\Debug\net7.0\Humanizer.dll
+D:\project details\tokenauth\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\project details\tokenauth\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\project details\tokenauth\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\project details\tokenauth\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\project details\tokenauth\bin\Debug\net7.0\Microsoft.Build.dll
+D:\project details\tokenauth\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\project details\tokenauth\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\project details\tokenauth\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\project details\tokenauth\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\project details\tokenauth\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\project details\tokenauth\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\project details\tokenauth\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\project details\tokenauth\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\project details\tokenauth\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\project details\tokenauth\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\project details\tokenauth\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\project details\tokenauth\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\project details\tokenauth\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\project details\tokenauth\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\project details\tokenauth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\project details\tokenauth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\project details\tokenauth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\project details\tokenauth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\project details\tokenauth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\project details\tokenauth\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\project details\tokenauth\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\project details\tokenauth\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\project details\tokenauth\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\project details\tokenauth\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\project details\tokenauth\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\project details\tokenauth\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\project details\tokenauth\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\project details\tokenauth\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\project details\tokenauth\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\project details\tokenauth\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\project details\tokenauth\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\project details\tokenauth\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\project details\tokenauth\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\project details\tokenauth\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\project details\tokenauth\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\project details\tokenauth\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\project details\tokenauth\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\project details\tokenauth\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\project details\tokenauth\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\project details\tokenauth\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\project details\tokenauth\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\project details\tokenauth\bin\Debug\net7.0\NuGet.Common.dll
+D:\project details\tokenauth\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\project details\tokenauth\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\project details\tokenauth\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\project details\tokenauth\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\project details\tokenauth\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\project details\tokenauth\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\project details\tokenauth\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\project details\tokenauth\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\project details\tokenauth\bin\Debug\net7.0\Scrutor.dll
+D:\project details\tokenauth\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.dll
+D:\project details\tokenauth\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+D:\project details\tokenauth\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\project details\tokenauth\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\project details\tokenauth\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\project details\tokenauth\bin\Debug\net7.0\System.CodeDom.dll
+D:\project details\tokenauth\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\project details\tokenauth\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\project details\tokenauth\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\project details\tokenauth\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\project details\tokenauth\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\project details\tokenauth\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\project details\tokenauth\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\project details\tokenauth\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\project details\tokenauth\bin\Debug\net7.0\System.Memory.Data.dll
+D:\project details\tokenauth\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\project details\tokenauth\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\project details\tokenauth\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\project details\tokenauth\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\project details\tokenauth\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\project details\tokenauth\bin\Debug\net7.0\af\Humanizer.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\ar\Humanizer.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\az\Humanizer.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\bg\Humanizer.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\cs\Humanizer.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\da\Humanizer.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\de\Humanizer.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\el\Humanizer.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\es\Humanizer.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\fa\Humanizer.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\fr\Humanizer.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\he\Humanizer.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\hr\Humanizer.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\hu\Humanizer.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\hy\Humanizer.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\id\Humanizer.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\is\Humanizer.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\it\Humanizer.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\ja\Humanizer.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\ku\Humanizer.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\lv\Humanizer.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\mt\Humanizer.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\nb\Humanizer.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\nl\Humanizer.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\pl\Humanizer.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\pt\Humanizer.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\ro\Humanizer.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\ru\Humanizer.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\sk\Humanizer.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\sl\Humanizer.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\sr\Humanizer.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\sv\Humanizer.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\tr\Humanizer.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\uk\Humanizer.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\vi\Humanizer.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\project details\tokenauth\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\project details\tokenauth\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\project details\tokenauth\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\project details\tokenauth\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\project details\tokenauth\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\project details\tokenauth\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\project details\tokenauth\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\project details\tokenauth\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\project details\tokenauth\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\project details\tokenauth\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\project details\tokenauth\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\project details\tokenauth\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\project details\tokenauth\obj\Debug\net7.0\TokenAuth.csproj.AssemblyReference.cache
+D:\project details\tokenauth\obj\Debug\net7.0\TokenAuth.GeneratedMSBuildEditorConfig.editorconfig
+D:\project details\tokenauth\obj\Debug\net7.0\TokenAuth.AssemblyInfoInputs.cache
+D:\project details\tokenauth\obj\Debug\net7.0\TokenAuth.AssemblyInfo.cs
+D:\project details\tokenauth\obj\Debug\net7.0\TokenAuth.csproj.CoreCompileInputs.cache
+D:\project details\tokenauth\obj\Debug\net7.0\TokenAuth.MvcApplicationPartsAssemblyInfo.cs
+D:\project details\tokenauth\obj\Debug\net7.0\TokenAuth.MvcApplicationPartsAssemblyInfo.cache
+D:\project details\tokenauth\obj\Debug\net7.0\staticwebassets\msbuild.TokenAuth.Microsoft.AspNetCore.StaticWebAssets.props
+D:\project details\tokenauth\obj\Debug\net7.0\staticwebassets\msbuild.build.TokenAuth.props
+D:\project details\tokenauth\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TokenAuth.props
+D:\project details\tokenauth\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TokenAuth.props
+D:\project details\tokenauth\obj\Debug\net7.0\staticwebassets.pack.json
+D:\project details\tokenauth\obj\Debug\net7.0\staticwebassets.build.json
+D:\project details\tokenauth\obj\Debug\net7.0\staticwebassets.development.json
+D:\project details\tokenauth\obj\Debug\net7.0\scopedcss\bundle\TokenAuth.styles.css
+D:\project details\tokenauth\obj\Debug\net7.0\TokenAuth.csproj.CopyComplete
+D:\project details\tokenauth\obj\Debug\net7.0\TokenAuth.dll
+D:\project details\tokenauth\obj\Debug\net7.0\refint\TokenAuth.dll
+D:\project details\tokenauth\obj\Debug\net7.0\TokenAuth.pdb
+D:\project details\tokenauth\obj\Debug\net7.0\TokenAuth.genruntimeconfig.cache
+D:\project details\tokenauth\obj\Debug\net7.0\ref\TokenAuth.dll
+D:\project details\tokenauth\bin\Debug\net7.0\TokenAuth.staticwebassets.runtime.json
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\appsettings.Development.json
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\appsettings.json
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\TokenAuth.staticwebassets.runtime.json
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\TokenAuth.exe
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\TokenAuth.deps.json
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\TokenAuth.runtimeconfig.json
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\TokenAuth.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\TokenAuth.pdb
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Azure.Core.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Azure.Identity.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Humanizer.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.Build.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\NuGet.Common.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Scrutor.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\System.CodeDom.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\System.Memory.Data.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\af\Humanizer.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ar\Humanizer.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\az\Humanizer.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\bg\Humanizer.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\cs\Humanizer.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\da\Humanizer.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\de\Humanizer.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\el\Humanizer.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\es\Humanizer.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\fa\Humanizer.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\fr\Humanizer.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\he\Humanizer.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\hr\Humanizer.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\hu\Humanizer.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\hy\Humanizer.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\id\Humanizer.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\is\Humanizer.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\it\Humanizer.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ja\Humanizer.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ku\Humanizer.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\lv\Humanizer.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\mt\Humanizer.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\nb\Humanizer.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\nl\Humanizer.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\pl\Humanizer.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\pt\Humanizer.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ro\Humanizer.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ru\Humanizer.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\sk\Humanizer.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\sl\Humanizer.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\sr\Humanizer.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\sv\Humanizer.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\tr\Humanizer.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\uk\Humanizer.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\vi\Humanizer.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\obj\Debug\net7.0\TokenAuth.csproj.AssemblyReference.cache
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\obj\Debug\net7.0\TokenAuth.GeneratedMSBuildEditorConfig.editorconfig
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\obj\Debug\net7.0\TokenAuth.AssemblyInfoInputs.cache
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\obj\Debug\net7.0\TokenAuth.AssemblyInfo.cs
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\obj\Debug\net7.0\TokenAuth.csproj.CoreCompileInputs.cache
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\obj\Debug\net7.0\TokenAuth.MvcApplicationPartsAssemblyInfo.cs
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\obj\Debug\net7.0\TokenAuth.MvcApplicationPartsAssemblyInfo.cache
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\obj\Debug\net7.0\staticwebassets\msbuild.TokenAuth.Microsoft.AspNetCore.StaticWebAssets.props
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\obj\Debug\net7.0\staticwebassets\msbuild.build.TokenAuth.props
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TokenAuth.props
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TokenAuth.props
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\obj\Debug\net7.0\staticwebassets.pack.json
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\obj\Debug\net7.0\staticwebassets.build.json
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\obj\Debug\net7.0\staticwebassets.development.json
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\obj\Debug\net7.0\scopedcss\bundle\TokenAuth.styles.css
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\obj\Debug\net7.0\TokenAuth.csproj.CopyComplete
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\obj\Debug\net7.0\TokenAuth.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\obj\Debug\net7.0\refint\TokenAuth.dll
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\obj\Debug\net7.0\TokenAuth.pdb
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\obj\Debug\net7.0\TokenAuth.genruntimeconfig.cache
+D:\newewweeeew\Angular\CARRENTAL\src\TokenAuth\obj\Debug\net7.0\ref\TokenAuth.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\appsettings.Development.json
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\appsettings.json
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\TokenAuth.staticwebassets.runtime.json
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\TokenAuth.exe
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\TokenAuth.deps.json
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\TokenAuth.runtimeconfig.json
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\TokenAuth.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\TokenAuth.pdb
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Azure.Core.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Azure.Identity.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Humanizer.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.Build.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\NuGet.Common.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Scrutor.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\System.CodeDom.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\af\Humanizer.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ar\Humanizer.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\az\Humanizer.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\bg\Humanizer.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\cs\Humanizer.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\da\Humanizer.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\de\Humanizer.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\el\Humanizer.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\es\Humanizer.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\fa\Humanizer.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\fr\Humanizer.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\he\Humanizer.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\hr\Humanizer.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\hu\Humanizer.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\hy\Humanizer.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\id\Humanizer.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\is\Humanizer.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\it\Humanizer.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ja\Humanizer.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ku\Humanizer.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\lv\Humanizer.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\mt\Humanizer.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\nb\Humanizer.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\nl\Humanizer.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\pl\Humanizer.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\pt\Humanizer.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ro\Humanizer.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ru\Humanizer.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\sk\Humanizer.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\sl\Humanizer.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\sr\Humanizer.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\sv\Humanizer.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\tr\Humanizer.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\uk\Humanizer.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\vi\Humanizer.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\obj\Debug\net7.0\TokenAuth.csproj.AssemblyReference.cache
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\obj\Debug\net7.0\TokenAuth.GeneratedMSBuildEditorConfig.editorconfig
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\obj\Debug\net7.0\TokenAuth.AssemblyInfoInputs.cache
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\obj\Debug\net7.0\TokenAuth.AssemblyInfo.cs
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\obj\Debug\net7.0\TokenAuth.csproj.CoreCompileInputs.cache
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\obj\Debug\net7.0\TokenAuth.MvcApplicationPartsAssemblyInfo.cs
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\obj\Debug\net7.0\TokenAuth.MvcApplicationPartsAssemblyInfo.cache
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\obj\Debug\net7.0\staticwebassets\msbuild.TokenAuth.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\obj\Debug\net7.0\staticwebassets\msbuild.build.TokenAuth.props
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TokenAuth.props
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TokenAuth.props
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\obj\Debug\net7.0\staticwebassets.build.json
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\obj\Debug\net7.0\staticwebassets.development.json
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\obj\Debug\net7.0\scopedcss\bundle\TokenAuth.styles.css
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\obj\Debug\net7.0\TokenAuth.csproj.CopyComplete
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\obj\Debug\net7.0\TokenAuth.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\obj\Debug\net7.0\refint\TokenAuth.dll
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\obj\Debug\net7.0\TokenAuth.pdb
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\obj\Debug\net7.0\TokenAuth.genruntimeconfig.cache
+D:\Carrental\Angular\CARRENTAL\src\TokenAuth\obj\Debug\net7.0\ref\TokenAuth.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\appsettings.Development.json
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\appsettings.json
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\TokenAuth.staticwebassets.runtime.json
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\TokenAuth.exe
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\TokenAuth.deps.json
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\TokenAuth.runtimeconfig.json
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\TokenAuth.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\TokenAuth.pdb
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Azure.Core.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Azure.Identity.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Humanizer.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.Build.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\NuGet.Common.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Scrutor.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\System.CodeDom.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\af\Humanizer.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ar\Humanizer.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\az\Humanizer.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\bg\Humanizer.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\cs\Humanizer.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\da\Humanizer.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\de\Humanizer.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\el\Humanizer.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\es\Humanizer.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\fa\Humanizer.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\fr\Humanizer.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\he\Humanizer.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\hr\Humanizer.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\hu\Humanizer.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\hy\Humanizer.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\id\Humanizer.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\is\Humanizer.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\it\Humanizer.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ja\Humanizer.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ku\Humanizer.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\lv\Humanizer.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\mt\Humanizer.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\nb\Humanizer.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\nl\Humanizer.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\pl\Humanizer.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\pt\Humanizer.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ro\Humanizer.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ru\Humanizer.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\sk\Humanizer.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\sl\Humanizer.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\sr\Humanizer.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\sv\Humanizer.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\tr\Humanizer.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\uk\Humanizer.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\vi\Humanizer.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\obj\Debug\net7.0\TokenAuth.csproj.AssemblyReference.cache
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\obj\Debug\net7.0\TokenAuth.GeneratedMSBuildEditorConfig.editorconfig
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\obj\Debug\net7.0\TokenAuth.AssemblyInfoInputs.cache
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\obj\Debug\net7.0\TokenAuth.AssemblyInfo.cs
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\obj\Debug\net7.0\TokenAuth.csproj.CoreCompileInputs.cache
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\obj\Debug\net7.0\TokenAuth.MvcApplicationPartsAssemblyInfo.cs
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\obj\Debug\net7.0\TokenAuth.MvcApplicationPartsAssemblyInfo.cache
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\obj\Debug\net7.0\staticwebassets\msbuild.TokenAuth.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\obj\Debug\net7.0\staticwebassets\msbuild.build.TokenAuth.props
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TokenAuth.props
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TokenAuth.props
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\obj\Debug\net7.0\staticwebassets.build.json
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\obj\Debug\net7.0\staticwebassets.development.json
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\obj\Debug\net7.0\scopedcss\bundle\TokenAuth.styles.css
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\obj\Debug\net7.0\TokenAuth.csproj.CopyComplete
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\obj\Debug\net7.0\TokenAuth.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\obj\Debug\net7.0\refint\TokenAuth.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\obj\Debug\net7.0\TokenAuth.pdb
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\obj\Debug\net7.0\TokenAuth.genruntimeconfig.cache
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\obj\Debug\net7.0\ref\TokenAuth.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Carrental Application\Angular\CARRENTAL\src\TokenAuth\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll

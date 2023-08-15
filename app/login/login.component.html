@@ -1,0 +1,56 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+</head>
+<body >
+    <div id="logreg-forms">
+        <form [formGroup]="loginform" class="form-signin">
+            <h1 class="h3 mb-3 font-weight-normal" style="text-align: center">Login </h1>
+            <div class="social-login">
+                <button class="btn facebook-btn social-btn" type="button"><span><i class="fab fa-facebook-f"></i> Sign in with Facebook</span> </button>
+                <button class="btn google-btn social-btn" type="button"><span><i class="fab fa-google-plus-g"></i> Sign in with Google+</span> </button>
+            </div>
+            <p style="text-align:center"> OR  </p>
+
+            <div>
+              <input  formControlName="email" type="email"  class="form-control" placeholder="Email address" >
+              <div *ngIf="loginform.get('email')?.hasError('required') && loginform.get('email')?.touched">
+                <span style="color: red;">Please Enter Email.</span>
+              </div>
+              <div *ngIf="loginform.get('email')?.hasError('pattern') && loginform.get('email')?.touched">
+                <span style="color: red;">Invalid data. Please use Charector , Number , one special charecter.</span>
+              </div>
+              <div *ngIf="loginform.get('email')?.hasError('email') && loginform.get('email')?.touched">
+                <span style="color: red;">Invalid Email address.</span>
+              </div>
+            </div>
+            <div>
+              <input formControlName="password"  type="password" class="form-control" placeholder="Password">
+              <div *ngIf="loginform.get('password')?.hasError('required') && loginform.get('password')?.touched">
+                <span style="color: red;">Please Enter Password.</span>
+              </div>
+              <div *ngIf="loginform.get('password')?.hasError('pattern') && loginform.get('password')?.touched">
+                <span style="color: red;">Invalid data. Please use Charector , Number , one special charecter.</span>
+              </div>
+              </div>
+            <button  (click)="login(loginform)" class="btn btn-success btn-block" [disabled]="loginform.invalid" type="submit"><i class="fas fa-sign-in-alt"></i> Sign in</button>
+            <hr>
+
+            <button routerLink="/register" class="btn btn-primary btn-block" type="button" id="btn-signup"><i class="fas fa-user-plus"></i> Sign up New Account</button>
+            <br>
+            <button class="btn btn-success" style="margin-left: 34%;" routerLink="" >Back to Home</button>
+            </form>
+            <br>
+
+
+
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    <script src="/script.js"></script>
+</body>
+</html>

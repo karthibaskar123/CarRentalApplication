@@ -1,0 +1,285 @@
+ <div class="container1">
+  <img src="https://d2rdhxfof4qmbb.cloudfront.net/wp-content/uploads/20190425170948/friends-on-road-trip.jpg" alt="Notebook" style="width:100%;height: 400px;">
+  <div class="content">
+    <h1 >The perfect car for your next trip is just around the corner</h1>
+    <h3>Book your drive now!</h3>
+  </div>
+  <div class="content1">
+    <form class="d-flex" style="margin-left: 10%;">
+      <input #searchinput class="con"   (keyup)="searchevent($event) " (blur)="hidesearch()" type="search" placeholder="Search cars " aria-label="Search">
+      <button (click)="submitsearch(searchinput.value)" class="con1 btn-success" >Get Cars</button><ul class="suggested-search" *ngIf="searchresult"><h6 *ngFor="let item of searchresult">
+        <a (mousedown)="redirectToDetails(item.productId)">{{item.brandName}}</a>
+      </h6></ul>
+    </form>
+
+</div>
+</div>
+
+<div class="mt-3"  style="padding: 1%;background-color:whitesmoke" *ngIf="offer.isoffervalid===true">
+  <h4 style="text-align: center;">Opening Offer On Cars World upto 20% on Rent</h4>
+  <div class="coundown d-flex justify-content-between align-items-baseline">
+  <p>Days</p>
+  <p>Hours</p>
+  <p>Mins</p>
+  <p >Sec</p>
+</div>
+<div class="coundown d-flex justify-content-between align-items-baseline">
+  <p>{{offer.days}}</p>
+  <p>{{offer.hours}}</p>
+  <p>{{offer.mins}}</p>
+  <p>{{offer.secs}}</p>
+</div>
+</div>
+
+<head> <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous"></head>
+
+  <div class="card-top-fluid">
+    <div class="core d-flex" style="margin-top: 2.5%;font-family: serif; ">
+        <div class="item" style="margin-top: 1.5%;">
+            <a (click)="filter('')">
+                <img src="assets\Image\carlogo.png" alt="">
+            </a>
+        </div>
+        <div class="item">
+            <a (click)="filter('Luxury')">
+              <img  src="https://summitsoft.com/wp-content/uploads/2016/07/Bentley-logo.jpg" alt="">
+                <h6>Luxury  </h6>
+            </a>
+        </div>
+        <div class="item">
+            <a (click)="filter('Affordable')">
+              <img  src="https://us.123rf.com/450wm/nm09/nm092005/nm09200500087/148105140-indian-rupee-banknote-stack-icon-money-and-cash-symbol-financial-and-banking-infographic-design.jpg?ver=6" alt="">
+                <h6>Affordable  </h6>
+            </a>
+        </div>
+        <div class="item">
+            <a (click)="filter('Mileagebase')">
+                <img style="height:60px; width:80px;" src="data:image/png;base64,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" alt="">
+                <h6>Mileagebase</h6>
+            </a>
+        </div>
+    </div>
+</div>
+<br>
+
+<div class="container">
+  <div class="row">
+      <ng-container *ngFor="let item of filterCategory?.slice(0, 4) ">
+          <div class="card col-md-3" style="border: 1cap;">
+              <div class="image-container">
+                <img src="TokenAuth/wwwroot/Image/{{item.imagePath}}" onerror="this.src='assets/Image/carlogo.png';" alt="Image"/>
+                <div class="tooltip">{{item.imagePath}}</div>
+              </div>
+              <div style="margin-top: 3%;">
+              <h6 style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; ">{{item.brandName}} {{item.modelName}}</h6>
+              <p style="font-family: sans-serif;font-size: 15px;"><span  >{{item.transmissionType}} </span><span  >•{{item.engineType}} </span> <span> •5 seats</span></p>
+              <p style="font-family: arialnarrow"*ngIf="!offer.isoffervalid==true"><strong>Price/day:</strong> Rs{{item.pricePerDay}}</p>
+              <p  *ngIf="offer.isoffervalid===true" style="text-decoration: line-through;"><strong>Price/day:</strong> Rs{{item.pricePerDay}}</p>
+              <p *ngIf="offer.isoffervalid===true"><strong>Discount Price/day:</strong> Rs{{item.pricePerDay|offer}}</p>
+              <div class="product-footer" >
+                <button *ngIf="isloggedIn()" class="btn btn-secondary" ><a style="cursor: pointer;" (click)="cart(item)" >Add  Favorite</a></button>&nbsp;&nbsp;
+                <a routerLink="/cardetails/{{item.productId}}"><button class="btn btn-primary" >View Details</button></a>&nbsp;&nbsp;
+                <button class="btn btn-success" routerLink="/rentalcar/{{item.productId}}"  >Book Now</button></div>
+              </div>
+          </div>
+      </ng-container>
+  </div>
+</div>
+<br><br>
+
+
+<div class="container2">
+  <img src="https://thetrustedtraveller.com/wp-content/webp-express/webp-images/uploads/2016/02/thetrustedtravellercom-shutterstock_307824461-56c6ffcd22062.jpg.webp" alt="Notebook" style="width:100%;height:600px;">
+  <div class="content">
+    <h1 >Largest car sharing marketplace</h1>
+    <h4>Sedans for short distances, SUVs for tough terrains, luxury cars for surprises - we’ve got it all!</h4>
+  </div>
+</div>
+<div class="container" style="margin-top: 3%;">
+  <div class=" justify-content-center">
+    <div class="col-md-12 heading-section text-center ftco-animate mb-5">
+      <h2 class="mb-2" style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">UNMATCHED BENEFITS</h2>
+      <h3 class="mb-2" style="font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;">Drive everywhere with freedom</h3>
+
+    </div></div>
+  </div>
+
+<div class="container3">
+  <div class="row" style="margin-left: 6%;">
+      <ng-container >
+          <div class="card1 col-md-3" style="border: 1cap;">
+              <img  alt="Random first slide" src = "https://www.liveawilderlife.com/wp-content/uploads/2021/10/things-to-do-on-a-road-trip-1160x870.jpg"/>
+              <div class="servicecontent">
+                <h2 style="color: white;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+                  Reschedule for FREE</h2>
+              </div>
+
+          </div>
+      </ng-container>
+      <ng-container >
+        <div class="card1 col-md-3" style="border: 1cap;">
+          <a >
+
+            <img  alt="Random first slide" src = "https://as2.ftcdn.net/v2/jpg/04/46/68/99/1000_F_446689969_zWIhQf9pxxoQ73B71VzKmxMFohwtrOli.jpg"/></a>
+            <div class="servicecontent">
+              <h2 style="color: white;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+                ZERO Toll Charges</h2>
+            </div>
+          </div>
+    </ng-container>
+    <ng-container >
+      <div class="card1 col-md-3" style="border: 1cap;">
+        <a >
+          <img  alt="Random first slide" src = "https://s3.amazonaws.com/iexplore_web/images/assets/000/005/846/original/dreamstime_m_42481603.jpg?1442939056"/></a>
+          <div class="servicecontent">
+            <h2 style="color: white;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Enjoy Unlimited Kilometers</h2>
+
+          </div>
+        </div>
+  </ng-container>
+  <ng-container >
+    <div class="card1 col-md-3" style="border: 1cap;">
+      <a >
+
+        <img  alt="Random first slide" src = "https://staticbiassets.in/thumb/msid-76538650,width-700,resizemode-4,imgsize-316993/img599f02b888c22000e82fe41d.jpg"/></a>
+        <div class="servicecontent">
+          <h2 style="color: white;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Zero Security Deposit</h2>
+
+        </div>
+      </div>
+</ng-container>
+
+  </div>
+</div>
+
+<br><br>
+<div class="container5">
+  <img src="https://zoomcar-assets.zoomcar.com/images/original/c709bba20a26078cae373afd38499492ba7882d0.jpg?1680853273" alt="Notebook" style="width:100%;height: 600px; ">
+  <div class="content">
+    <h1 >Drive worry free with Cars World!</h1>
+    <h4>24X7 Roadside assistance whenever you need</h4>
+  </div>
+</div>
+
+<div class=" justify-content-center" style="margin-top: 2%;">
+  <div class="col-md-12 heading-section text-center ftco-animate mb-5">
+    <h2 class="mb-2" style="font-family: 'Times New Roman', Times, serif;">HEAR FROM OUR GUESTS</h2>
+  </div>
+  </div>
+
+
+<div class="containerreview" style="margin-top: -2.5%;">
+  <div class="row" style="margin-left: 3%;">
+      <ng-container >
+          <div class="cardreview col-md-3" style="border: 1cap;">
+              <img  alt="Random first slide" src = "https://www.zoomcar.com/img/guest_four.png"/>
+              <br><br>
+              <h3 style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">Aravin,chennai</h3>
+              <h6 style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">Flattered with availability of well maintained cars and good customer service</h6>
+          </div>
+      </ng-container>
+      <ng-container >
+        <div class="cardreview col-md-3" style="border: 1cap;">
+            <img  alt="Random first slide" src = "https://www.zoomcar.com/img/guest_five.png"/>
+            <br><br>
+            <h3 style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">Krishnan, Kerala</h3>
+            <h6 style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">Most trustable car rental. Looking forward to using Zoomcar again</h6>
+          </div>
+    </ng-container>
+    <ng-container >
+      <div class="cardreview col-md-3" style="border: 1cap;">
+          <img  alt="Random first slide" src = "https://www.zoomcar.com/img/guest_two.png"/>
+          <br><br>
+          <h3 style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">Gaurav, Delhi</h3>
+          <h6 style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">Booked a XUV with unlimited kms, very happy with Zoomcar's service</h6>
+        </div>
+  </ng-container>
+  </div></div>
+  <br><br>
+
+<div class="foot">
+<footer class="bg-dark text-white pt-5 pb-4" >
+  <div class ="container text-center text-md-left">
+    <div class="row text-center text-md-left">
+      <div class ="col-md-3 col-lg-3 col-xl-3 mx-auto mt-3">
+        <h5 class="text-uppercase mb-4 font-weight-bold text-warning">Cars World
+        </h5>
+        <p>
+          Zoomcar is India’s largest marketplace for cars on rent. From short road trips to quick in-city drives for groceries, supply pick-up, food runs, we have the cheapest car rental options for all your needs! A hatchback for daily commute, a sedan for short trips, SUV for hills or a luxury car for a surprise.
+        </p>
+      </div>
+      <div  class="col-md-2 col-lg-2 col-xl-2 mx-auto mt-3">
+        <h5 class="text-uppercase mb-4 font-weight-bold text-warning">Products</h5>
+        <p>
+          <a class="text-white" style="text-decoration:none ;" routerLink="/landingpage" > luxury Cars</a>
+        </p>
+        <p>
+          <a class="text-white" style="text-decoration:none ; "  routerLink="/landingpage"> Budget cars</a>
+        </p>
+        <p>
+          <a class="text-white" style="text-decoration:none ;"  routerLink="/landingpage"> Mileagebase cars</a>
+        </p>
+        <p>
+          <a href="#" class="text-white" style="text-decoration:none ;"  routerLink="/landingpage"> Sunroof cars</a>
+        </p>
+
+        <p>
+          <a href="#" class="text-white" style="text-decoration:none ;"  routerLink="/landingpage"> Road trip</a>
+        </p>
+
+
+      </div>
+      <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mt=3">
+        <h5 class="text-uppercase mt-4 font-weight-bold text-warning">We operate in many cities</h5>
+        <p>
+          <a href="#" class="text-white" style="text-decoration:none ;"> Bangalore
+
+         </a>
+        </p>
+        <p>
+          <a href="#" class="text-white" style="text-decoration:none ;">  Delhi
+            Mumbai
+            </a>
+        </p>
+        <p>
+          <a href="#" class="text-white" style="text-decoration:none ;"> Chennai
+            </a>
+        </p>
+        <p>
+          <a href="#" class="text-white" style="text-decoration:none ;"> Hyderabad
+           </a>
+        </p>
+        <p>
+          <a href="#" class="text-white" style="text-decoration:none ;">  Chandigarh
+            </a>
+        </p>
+
+      </div>
+      <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mt=3">
+        <h5 class="text-uppercase mt-4 font-weight-bold text-warning">Contact</h5>
+        <p>
+          <i class="fas fa-home mr-3"></i>NewTown,No.25,India
+        </p>
+        <p>
+          <i class="fas fa-envelope mr-3"></i>Providers@98@gmail.com
+        </p>
+        <p>
+          <i class="fas fa-phone mr-3"></i>+91 824585844
+        </p>
+        <p>
+          <i class="fas fa-print mr-3"></i>+01 323 323 323
+        </p>
+
+      </div>
+
+    </div>
+
+
+    </div>
+
+
+</footer>
+
+</div>
+
+

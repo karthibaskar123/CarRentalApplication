@@ -1,0 +1,45 @@
+<body>
+  <section class="w-100">
+  <div style="color: aquamarine;" >
+  <div class="product-list">
+    <h2 style="text-align: center;">Customer Bookings</h2><br>
+    <div class="seach-hero" style="margin:auto;">
+      <span>Search:</span>
+      <input type="text" name="Search" [(ngModel)]="searchtext" placeholder="Search Cars">
+    </div><br>
+    <table class="tableadjus">
+      <thead>
+         <tr>
+          <th>User ID</th>
+          <th>Booking ID</th>
+          <th>Brandname</th>
+          <th>Rent Date</th>
+          <th>Return Date</th>
+          <th>No. of Days</th>
+          <th>TotalAmount</th>
+          <th>Status</th>
+         </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let item of mybooking | search:searchtext">
+        <td>{{item.userId}}</td>
+        <td>{{item.bookingId}}</td>
+        <td>{{item.brandName}}</td>
+        <td>{{item.rentDate}}</td>
+        <td>{{item.returnDate}}</td>
+        <td>{{item.rentalDays}}</td>
+        <td>{{item.totalAmount}}</td>
+        <td>{{item.status}}</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  </div>
+  <br>
+  </section>
+  <div  style="text-align: center;">
+    <pagination-controls (pageChange)="page = $event"></pagination-controls>
+  </div>
+
+
+  </body>

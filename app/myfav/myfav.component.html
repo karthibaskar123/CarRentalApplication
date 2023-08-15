@@ -1,0 +1,64 @@
+<body><ng-container *ngIf="fav.length != 0">
+  <h2 style="text-align: center;color: rgb(41, 39, 42);">Favourite cars</h2>
+  <div style="margin-left: 15%;" class="container">
+      <div class="card-table">
+          <div class="cart-product">
+              <table class="table table-responsive">
+                  <thead>
+                      <tr>
+                          <th>Sr.No</th>
+                          <th>Car Name</th>
+                          <th>Image</th>
+                          <th>Description</th>
+                          <th>Price/hr</th>
+                          <th>Action</th>
+                          <th>Checkout</th>
+                      </tr>
+                  </thead>
+                  <tbody>
+                      <tr *ngFor="let item of fav; let i = index">
+                          <td>{{i+1}}</td>
+                          <td>{{item.brandName}}</td>
+                          <td><img style="width: 120px;"src = "TokenAuth/wwwroot/Image/{{item.imagePath}}" alt=""></td>
+                          <td style="width: 25%;">{{item.description}}</td>
+                          <th style="width: 12%;"> <p *ngIf="!offer.isoffervalid===true"> Rs{{item.pricePerDay}}</p>
+                          <p  *ngIf="offer.isoffervalid===true" style="text-decoration: line-through;">Rs{{item.pricePerDay}}</p>
+                          <p *ngIf="offer.isoffervalid===true"> Rs{{item.pricePerDay}}</p></th>
+                          <td>
+                              <button  class="btn btn-danger" (click)="delete(item.favoriteId)"><i class="fas fa-trash-alt"></i></button>
+                          </td>
+                            <td ><button class="btn btn-success" routerLink="/rentalcar/{{item.productId}}">Book now</button></td>
+                      </tr>
+                      <tr>
+                          <td colspan="4"></td>
+                          <td><button class="btn btn-danger">Empty Cart</button></td>
+                          <td><button routerLink="/landingpage" class="btn btn-primary">Add More</button></td>
+
+                      </tr>
+                      <br><br><br>
+
+                  </tbody>
+              </table>
+          </div>
+      </div>
+  </div>
+</ng-container>
+<ng-container *ngIf="fav.length == 0">
+  <div class="container">
+    <div class="cardclass">
+      <h4 class="card-title" style="text-align: center; margin-top: 2%;">My Favourite cars </h4>
+
+    </div>
+    <div class="center">
+      <img src="/assets/Image/carlogo.png"  style="width: 280px;
+      height: 200px;" alt="">
+      <h4 style="margin-top: 3%;">Your fav cart is empty</h4>
+
+      <button  routerLink="/landingpage" class="btn btn-primary" style="margin-top: 1%;"> Book cars</button>
+
+    </div>
+
+  </div>>
+
+</ng-container>
+</body>

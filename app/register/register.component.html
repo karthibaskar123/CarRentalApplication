@@ -1,0 +1,90 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+</head>
+<body>
+    <div id="logreg-forms" style="text-align: center;">
+        <form [formGroup]="registerform" class="form-signin" (ngSubmit)="register(registerform)" >
+            <h1 class="h3 mb-3 font-weight-normal" style="text-align: center"> Register </h1>
+            <div class="social-login">
+                <button class="btn facebook-btn social-btn" type="button"><span><i class="fab fa-facebook-f"></i> Sign in with Facebook</span> </button>
+                <button class="btn google-btn social-btn" type="button"><span><i class="fab fa-google-plus-g"></i> Sign in with Google+</span> </button>
+            </div>
+            <p style="text-align:center"> OR  </p>
+
+            <div>
+              <input  formControlName="firstName"  name="firstName" type="text" class="form-control" placeholder="First Name" required>
+              <div *ngIf="registerform.get('firstName')?.hasError('required') && registerform.get('firstName')?.touched">
+                <span style="color: red;">Please Enter Firstname.</span>
+              </div>
+              <div *ngIf="registerform.get('firstName')?.hasError('pattern') && registerform.get('firstName')?.touched">
+                <span style="color: red;">Invalid data. Please use Charector Only.</span>
+              </div>
+            </div>
+            <div>
+              <input  formControlName="lastName" name="lastName" type="text" class="form-control" placeholder="Last Name" required>
+              <div *ngIf="registerform.get('lastName')?.hasError('required') && registerform.get('lastName')?.touched">
+                <span style="color: red;">Please Enter Lastname.</span>
+              </div>
+              <div *ngIf="registerform.get('lastName')?.hasError('pattern') && registerform.get('lastName')?.touched">
+                <span style="color: red;">Invalid data. Please use Charector Only.</span>
+              </div>
+            </div>
+            <div>
+              <input  formControlName="phoneNumber"  name="phoneNumber" type="text" class="form-control" placeholder="Mobile Number" required>
+              <div *ngIf="registerform.get('phoneNumber')?.hasError('required') && registerform.get('phoneNumber')?.touched">
+                <span style="color: red;">Please Enter Phonenumber.</span>
+              </div>
+              <div *ngIf="registerform.get('phoneNumber')?.hasError('pattern') && registerform.get('phoneNumber')?.touched">
+                <span style="color: red;">Invalid data. Please use Number  with 10 digit.</span>
+              </div>
+              <div *ngIf="registerform.get('phoneNumber')?.hasError('phoneNumberRequirement') && registerform.get('phoneNumber')?.touched">
+                <span style="color: red;">Invalid phone number format. Please enter a 10-digit number starting with '9'.</span>
+              </div>
+
+            </div>
+            <div>
+              <input  formControlName="email" name="email"  type="text" class="form-control" placeholder="Enter email"  required>
+              <div *ngIf="registerform.get('email')?.hasError('required') && registerform.get('email')?.touched">
+                <span style="color: red;">Please Enter Email.</span>
+              </div>
+              <div *ngIf="registerform.get('email')?.hasError('pattern') && registerform.get('email')?.touched">
+                <span style="color: red;">Invalid data. Please use Charector , Number , one special charecter.</span>
+              </div>
+              <div *ngIf="registerform.get('email')?.hasError('email') && registerform.get('email')?.touched">
+                <span style="color: red;">Invalid email address.</span>
+              </div>
+            </div>
+          <div>
+            <input  formControlName="password" name="password" type="password"  class="form-control" placeholder="Password"  required>
+            <div *ngIf="registerform.get('password')?.hasError('required') && registerform.get('password')?.touched">
+              <span style="color: red;">Please Enter Password.</span>
+            </div>
+            <div *ngIf="registerform.get('password')?.hasError('pattern') && registerform.get('password')?.touched">
+              <span style="color: red;">Invalid data. Please use Charector , Number , one special charecter.</span>
+            </div>
+
+        </div>
+            <button    class="btn btn-success btn-block"  [disabled]="registerform.invalid" type="submit"><i class="fas fa-sign-in-alt"></i> Sign in</button>
+            <hr>
+            <!-- <p>Don't have an account!</p> -->
+            <button   routerLink="/login" class="btn btn-primary btn-block" type="button" id="btn-signup"><i class="fas fa-user-plus"></i> Sign in Existence Account</button>
+            <br>
+            <button class="btn btn-success"  routerLink="" >Back to Home</button>
+            </form>
+
+
+            <br>
+
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    <script src="/script.js"></script>
+</body>
+</html>

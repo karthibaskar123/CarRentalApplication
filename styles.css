@@ -1,0 +1,40 @@
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+.background{
+color: darkcyan;
+}
+
+.carousel-caption {
+  background-color: #0000007d;
+  border-radius: 10px;
+}
+.carousel-control-next-icon, .carousel-control-prev-icon{
+  background-color: black;
+  border-radius: 5px;
+}
+.common-form {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  margin: auto;
+}
+.form-input {
+  height: 35px;
+  margin-bottom: 20px;
+  border: 1px solid rgb(3, 2, 4);
+  padding-left: 15px;
+  color: rgb(12, 9, 16);
+}
+.form-button {
+  height: 35px;
+  border: 1px solid rgb(6, 3, 8);
+  color: rgb(8, 4, 11);
+  cursor: pointer;
+}
+
+
+
+
+
+

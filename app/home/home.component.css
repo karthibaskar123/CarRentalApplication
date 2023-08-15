@@ -1,0 +1,304 @@
+.card img
+{
+  width: 299px;
+  height: 200px;
+  margin-top: -8%;
+  margin-left: -3%;
+  border-radius: 2em;
+  text-align: center;
+  box-shadow: 0 5px 10px rgba(0,0,0,.2);
+}
+
+.foot{
+  justify-content: end;
+  align-items: end;
+}
+.product-header-image{
+  object-fit: contain;
+  width: 100%;
+  height: 600px;
+}
+.product-item{
+  margin-bottom: 40px;
+  border: 1px solid #ccc;
+}
+
+.product-item img{
+  width: 130%;
+  height: 300px;
+  object-fit: contain;
+}
+.product-details {
+  border-top: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+  padding: 15px;
+}
+
+.product-footer{
+  display: flex;
+  justify-content:center;
+  padding: 10px;
+}
+
+
+
+
+.card-top {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: .25rem;
+    padding-left: 0%;
+}
+
+.item img {
+  height:60px; width:80px;
+}
+
+.item {
+    margin: 0px 15px;
+    text-align: center;
+}
+
+.item a:hover {
+    color: blue;
+}
+
+.card{
+    padding: 1.5em .5em .5em;
+    border-radius: 2em;
+    text-align: center;
+    box-shadow: 0 5px 10px rgba(0,0,0,.2);
+    margin: 10px;
+    width: 300px;
+    height: 400px;
+}
+/* Add this CSS to your existing styles or create a new CSS block */
+ul.suggested-search {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  width: 20%;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 8px;
+  /* margin: 0; */
+  margin-left: 35%;
+  list-style: none;
+  z-index: 9999; /* Ensure the suggestion list appears above other elements */
+}
+
+ul.suggested-search h5 {
+  margin: 0;
+  padding: 0;
+}
+
+ul.suggested-search h5 a {
+  display: block;
+  padding: 4px;
+  text-decoration: none;
+  color: #333;
+}
+
+ul.suggested-search h5 a:hover {
+  background-color: #f0f0f0;
+}
+.image-container {
+  position: relative;
+  display: inline-block;
+}
+
+.tooltip {
+  position: absolute;
+  bottom: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  padding: 5px 10px;
+  border-radius: 5px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 200px; /* Adjust the maximum width as needed */
+  visibility: hidden;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.image-container:hover .tooltip {
+  visibility: visible;
+  opacity: 1;
+}
+
+.container1 {
+  position: relative;
+  max-width: 1550px; /* Maximum width */
+  margin: 0 auto; /* Center it */
+
+}
+
+.container1 .content {
+  position: absolute; /* Position the background text */
+  bottom: 0; /* At the bottom. Use top:0 to append it to the top */
+  background: rgb(0, 0, 0); /* Fallback color */
+  background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+  color: #f1f1f1; /* Grey text */
+  width: 70%; /* Full width */
+  padding: 20px; /* Some padding */
+  text-align: center;
+  margin-bottom: 10%;
+  margin-left: 15%;
+}
+
+.container1 .content1 {
+  position: absolute;
+  bottom: 0;
+  width: 70%;
+  padding: 20px;
+  margin-bottom: 1%;
+  margin-left: 15%;
+}
+
+.con{
+  border-radius: 2em;
+  background-color: white;
+  width: 700px;
+  height: 60px;
+  text-align: center;
+}
+.con1{
+  border-radius: 2em;
+  width: 100px;
+  height: 60px;
+  text-align: center;
+
+}
+
+
+
+
+.container2 {
+  position: relative;
+  max-width: 1550px; /* Maximum width */
+  margin: 0 auto; /* Center it */
+
+}
+
+.container2 .content {
+  position: absolute; /* Position the background text */
+  bottom: 0; /* At the bottom. Use top:0 to append it to the top */
+  background: rgb(0, 0, 0); /* Fallback color */
+  background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+  color: #f1f1f1; /* Grey text */
+  width: 70%; /* Full width */
+  padding: 20px; /* Some padding */
+  text-align: center;
+  margin-bottom: 25%;
+  margin-left: 15%;
+}
+
+.card1{
+  padding: 1.5em .5em .5em;
+  border-radius: 2em;
+  text-align: center;
+  box-shadow: 0 5px 10px rgba(0,0,0,.2);
+  margin: 10px;
+  width: 300px;
+  height: 400px;
+}
+
+.card1 img
+{
+  width: 299px;
+  height: 400px;
+  margin-top: -8%;
+  margin-left: -3%;
+  border-radius: 2em;
+  text-align: center;
+  box-shadow: 0 5px 10px rgba(0,0,0,.2);
+
+}
+
+.container3 {
+  position: flex;
+  max-width: 1400px;
+  margin-left: 2%;
+
+}
+.container3 .servicecontent {
+  position: absolute;
+  bottom: 0;
+  width: 20%;
+  padding: 20px;
+  margin-bottom: -103%;
+  margin-left: 0%;
+}
+
+
+.container5 {
+  position: relative;
+  max-width: 1550px; /* Maximum width */
+  margin: 0 auto; /* Center it */
+
+}
+
+.container5 .content {
+  position: absolute; /* Position the background text */
+  bottom: 0; /* At the bottom. Use top:0 to append it to the top */
+  background: rgb(0, 0, 0); /* Fallback color */
+  background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+  color: #f1f1f1; /* Grey text */
+  width: 70%; /* Full width */
+  padding: 20px; /* Some padding */
+  text-align: center;
+  margin-bottom: 25%;
+  margin-left: 15%;
+}
+
+
+
+.cardreview{
+  padding: 1.5em .5em .5em;
+  /* border-radius: 2em; */
+  text-align: center;
+  box-shadow: 0 5px 10px rgba(0,0,0,.2);
+  margin: 30px;
+  width: 350px;
+  height: 400px;
+  background-color: aliceblue;
+}
+
+.cardreview img
+{
+    width: 60%;
+    height: 45%;
+    border-radius: 50%;
+    margin: 0 auto;
+    box-shadow: 0 0 10px rgba(0,0,0,.2);
+
+}
+
+.containerreview {
+  position: relative;
+  max-width: 1400px;
+  margin-left: 7%;
+}
+.containerreview .servicecontent {
+  position: absolute;
+  bottom: 0;
+  width: 20%;
+  padding: 20px;
+  margin-bottom: 0%;
+  margin-left: 0%;
+}
+.core
+{position: relative;
+  margin-left: 34%;
+}

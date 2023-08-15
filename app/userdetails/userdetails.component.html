@@ -1,0 +1,41 @@
+<body>
+  <section class="w-100">
+  <div style="color: aquamarine;" >
+  <div class="product-list">
+    <h2 >User list</h2><br>
+    <div class="seach-hero" style="margin:auto;">
+      <span>Search:</span>
+      <input type="text" name="Search" [(ngModel)]="searchtext" placeholder="Search Users"><span style="margin-left: 29%;">UserCount = {{this.users.length}} </span>
+    </div>
+    <br>
+    <table class="tableadjus">
+      <thead>
+        <tr>
+          <th>User ID</th>
+          <th>First Name</th>
+          <th>Last Name</th>
+          <th>phone Number</th>
+          <th>Email</th>
+          <th>Password</th>
+          <th>Action</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let item of users | search:searchtext">
+        <td>{{item.userId}}</td>
+        <td>{{item.firstName}}</td>
+        <td>{{item.lastName}}</td>
+        <td>{{item.phoneNumber}}</td>
+        <td>{{item.email}}</td>
+        <td>{{item.password}}</td>
+        <td >
+          <fa-icon style="margin-left: 10%;" (click)="delete(item.userid)" [icon]="icon"></fa-icon>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  </div>
+  <br>
+  </section>
+  </body>

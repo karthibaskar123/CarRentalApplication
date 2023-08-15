@@ -1,0 +1,37 @@
+<body>
+  <section class="w-100">
+  <div style="color: aquamarine;" >
+  <div class="product-list">
+    <h2 >Customer Feedback</h2><br>
+    <div class="seach-hero" style="margin:auto;">
+      <span>Search:</span>
+      <input type="text" name="Search" [(ngModel)]="searchtext" placeholder="Search customer">
+    </div><br>
+    <table class="tableadjus">
+      <thead>
+        <tr>
+          <th>ID</th>
+          <th>Name</th>
+          <th>Email</th>
+          <th>Message</th>
+          <th>Action</th>
+        </tr>
+
+      </thead>
+      <tbody>
+        <tr *ngFor="let item of users | search:searchtext">
+        <td>{{item.id}}</td>
+        <td>{{item.name}}</td>
+        <td>{{item.email}}</td>
+         <td>{{item.message}}</td>
+        <td >
+          <fa-icon style="margin-left: 10%;" (click)="delete(item.id)" [icon]="icon"></fa-icon>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  </div>
+  <br>
+  </section>
+  </body>
