@@ -12,7 +12,6 @@ export class ContactusComponent implements OnInit {
   constructor(private service:ContactService,private formbuilder:FormBuilder){}
   ngOnInit(): void {
     this.contact = this.formbuilder.group({
-
       name:"",
       email:"",
       message:""

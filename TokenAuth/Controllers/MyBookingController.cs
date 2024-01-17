@@ -126,6 +126,7 @@ namespace TokenAuth.Controllers
                 products.TotalAmount=Data.TotalAmount;
                 products.DrivingLicence=Data.DrivingLicence;
                 products.DrivingLicenceNumber=Data.DrivingLicenceNumber;
+                products.Status=Data.Status;
 
 
                if(Data.DrivingLicenceImage != null)
@@ -166,7 +167,8 @@ namespace TokenAuth.Controllers
                 CustomerAddress=product.CustomerAddress,
                 DrivingLicenceNumber=product.DrivingLicenceNumber,
                 TotalAmount=product.TotalAmount,
-                DrivingLicence=product.DrivingLicence
+                DrivingLicence=product.DrivingLicence,
+                Status=product.Status
 
             };
 

@@ -22,6 +22,7 @@ export class PaymentpageComponent  implements OnInit {
   BookingDate: string;
   DeliveryDate: string;
   bookingid:any;
+  productId:any;
 
 @ViewChild('paymentRef',{static:true})paymentRef!:ElementRef;
 
@@ -36,7 +37,7 @@ export class PaymentpageComponent  implements OnInit {
     this.DeliveryDate = deliveryDateTime.toISOString().substr(0, 10);
   }
 
-  
+
   ngOnInit(): void {
 
     // console.log(window.paypal);
@@ -77,6 +78,8 @@ export class PaymentpageComponent  implements OnInit {
     this.pay.Payment(formData).subscribe(
       response => {
         this.paymentstatus(this.bookingid);
+        console.warn(this.productId);
+        // this.Available(this.productId);
         alert("Payment Sucessfull")
       },
       error => {
@@ -91,6 +94,7 @@ export class PaymentpageComponent  implements OnInit {
       this.Book.statusupdate(bookingid).subscribe((res)=>{
       })
     }
+
 
 
 

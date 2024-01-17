@@ -3,7 +3,8 @@ import { Component, OnInit } from '@angular/core';
 import { FormBuilder, FormControl, FormGroup, Validators } from '@angular/forms';
 import { ProductService } from '../service/product.service';
 import { LoggerService } from '../logger.service';
-import { IDeactivateGuard } from '../guard/deactivate.guard.service';
+// import { LoggerserviceService } from 'projects/mylogger/src/lib/loggerservice.service';
+import { LoggerserviceService } from 'mylogger';
 
 @Component({
   selector: 'app-addcars',
@@ -15,7 +16,7 @@ export class AddcarsComponent implements OnInit {
   productData!:FormGroup;
   selectedFile!:File;
   addproductmessage: any;
-  constructor(private formbuilder:FormBuilder,private http:HttpClient,private service:ProductService,private logger: LoggerService){}
+  constructor(private loggerservice:LoggerserviceService,private formbuilder:FormBuilder,private http:HttpClient,private service:ProductService,private logger: LoggerService){}
 
 
   ngOnInit(): void {
@@ -71,13 +72,12 @@ export class AddcarsComponent implements OnInit {
     this.service.AddCars(formData).subscribe(
       response => {
         alert("Product Added Successfully")
-        this.logger.log("Product Added Successfully");
+        this.loggerservice.log("Product Added Successfully");
 
         this.productData.reset();
       },
       error => {
-        this.logger.error('Error while adding car:');
-
+        this.loggerservice.error('Error while adding car:');
       }
     )
   // }

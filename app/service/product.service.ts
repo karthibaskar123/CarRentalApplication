@@ -82,7 +82,6 @@ export class ProductService {
       carAddress:product.carAddress,
       isAvailable:product.isAvailable}
     const body = [{op:'add',path:'/favorites/-', value:myProducts}];
-    console.warn(body);
     return this.http.patch(this.authUser +"/"+ userId + '/favorite', body, this.httpOptions);
   }
 
@@ -97,6 +96,15 @@ removeallcart(){
    const modifiedUser: any= [
 
      { op: "replace", path: "/isAvailable", value: "False" }
+   ];
+   return this.http.patch(this.cars + productId + '/available', modifiedUser, this.httpOptions);
+  }
+IsAvailablecar(productId:number)
+ {
+   console.log(productId)
+   const modifiedUser: any= [
+
+     { op: "replace", path: "/isAvailable", value: "True" }
    ];
    return this.http.patch(this.cars + productId + '/available', modifiedUser, this.httpOptions);
   }

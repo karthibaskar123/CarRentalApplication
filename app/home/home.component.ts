@@ -53,8 +53,6 @@ this.service.Popularcars().subscribe((data)=>{
     .filter((data:any)=>{
       if(data.category === category || category==='')
       {
-
-
         return data;
 
       }

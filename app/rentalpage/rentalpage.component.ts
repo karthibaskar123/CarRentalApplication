@@ -15,7 +15,7 @@ import { Product } from '../../../data-type';
 })
 export class RentalpageComponent implements OnInit {
   BookingList:any;
-  productid:any;
+  productId:any;
   bookingData!:FormGroup;
   productdata:any;
   status="UNPAID";
@@ -41,7 +41,7 @@ export class RentalpageComponent implements OnInit {
   constructor(public offer:OfferService,private myrouter:Router,private route:ActivatedRoute,private fb:FormBuilder,private http:HttpClient,private book:MybookingService,private service:ProductService){}
 
   ngOnInit(): void {
-    
+
     if(this.currentMonth<10){
       this.FinalMonth = "0"+this.currentMonth;
     }else{
@@ -105,13 +105,14 @@ export class RentalpageComponent implements OnInit {
     }
     formData.forEach((value, key) => {
       console.log(value,key);
-
     });
 
     this.book.AddBooking(formData).subscribe(
       (response:any) => {
+        // this.Available(this.productId);
+        // console.log(this.productId)
         alert("Product Booked Successfully Complete Payment to Start Trip"+response.bookingId)
-        // this.Available(this.productid);
+        this.Available(this.productdata.productId);
         this.myrouter.navigate(['/payment/'+response.bookingId]);
         this.bookingData.reset();
       },
@@ -121,17 +122,16 @@ export class RentalpageComponent implements OnInit {
     )
   }
 
-  // Available(productid:any){
-  //   // console.warn(productid);
-  //   this.service.Availablecar(productid).subscribe((res)=>{
-  //   })
-  // }
-
-
-
     onFileSelected(event: any) {
       this.selectedFile = event.target.files[0];
     }
+
+
+Available(productId:any){
+  console.warn(productId);
+  this.service.Availablecar(productId).subscribe((res)=>{
+  })
+}
 calculate()
 {
   const date1Modified = new Date(this.bookingData.value.rentDate);

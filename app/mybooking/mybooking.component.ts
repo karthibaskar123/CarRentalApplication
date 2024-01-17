@@ -2,6 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { MybookingService } from '../service/mybooking.service';
 import { AuthService } from '../service/auth.service';
 import { PaymentService } from '../service/payment.service';
+import { ProductService } from '../service/product.service';
 
 @Component({
   selector: 'app-mybooking',
@@ -14,7 +15,8 @@ export class MybookingComponent implements OnInit{
   mybooking: any;
   display=true;
   show!:false;
-  constructor(private Book:MybookingService,public auth:AuthService,private pay:PaymentService){}
+  bookingId: any;
+  constructor(private Book:MybookingService,public auth:AuthService,private pay:PaymentService,private service:ProductService){}
   ngOnInit(): void
   {
     this.Mybooking();
@@ -33,9 +35,14 @@ isUnpaid(status: string): boolean {
 
   cancel(id:number){
     this.Book.deletebooking(id).subscribe((res)=>{
+      this.Available(this.bookingId);
       alert("Booking deleted Successfully");
       this.Mybooking();
     })
   }
-
+  Available(productId:any){
+    console.warn(productId);
+    this.service.IsAvailablecar(productId).subscribe((res)=>{
+    })
+  }
 }

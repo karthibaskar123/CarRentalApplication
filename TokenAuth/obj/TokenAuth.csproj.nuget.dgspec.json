@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Carrental Application\\Angular\\CARRENTAL\\src\\TokenAuth\\TokenAuth.csproj": {}
+    "D:\\karthick work\\Carrental Application\\Angular\\CARRENTAL\\src\\TokenAuth\\TokenAuth.csproj": {}
   },
   "projects": {
-    "D:\\Carrental Application\\Angular\\CARRENTAL\\src\\TokenAuth\\TokenAuth.csproj": {
+    "D:\\karthick work\\Carrental Application\\Angular\\CARRENTAL\\src\\TokenAuth\\TokenAuth.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Carrental Application\\Angular\\CARRENTAL\\src\\TokenAuth\\TokenAuth.csproj",
+        "projectUniqueName": "D:\\karthick work\\Carrental Application\\Angular\\CARRENTAL\\src\\TokenAuth\\TokenAuth.csproj",
         "projectName": "TokenAuth",
-        "projectPath": "D:\\Carrental Application\\Angular\\CARRENTAL\\src\\TokenAuth\\TokenAuth.csproj",
+        "projectPath": "D:\\karthick work\\Carrental Application\\Angular\\CARRENTAL\\src\\TokenAuth\\TokenAuth.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "D:\\Carrental Application\\Angular\\CARRENTAL\\src\\TokenAuth\\obj\\",
+        "outputPath": "D:\\karthick work\\Carrental Application\\Angular\\CARRENTAL\\src\\TokenAuth\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config"
