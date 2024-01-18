@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TokenAuth")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2fe253db1cc5c9d7819913421f80ae6a141756c5")]
 [assembly: System.Reflection.AssemblyProductAttribute("TokenAuth")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TokenAuth")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

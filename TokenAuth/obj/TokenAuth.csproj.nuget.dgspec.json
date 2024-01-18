@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\karthick work\\Carrental Application\\Angular\\CARRENTAL\\src\\TokenAuth\\TokenAuth.csproj": {}
+    "C:\\Users\\karthi.baskar\\Downloads\\Carrental Application\\Carrental Application\\Angular\\CARRENTAL\\src\\TokenAuth\\TokenAuth.csproj": {}
   },
   "projects": {
-    "D:\\karthick work\\Carrental Application\\Angular\\CARRENTAL\\src\\TokenAuth\\TokenAuth.csproj": {
+    "C:\\Users\\karthi.baskar\\Downloads\\Carrental Application\\Carrental Application\\Angular\\CARRENTAL\\src\\TokenAuth\\TokenAuth.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\karthick work\\Carrental Application\\Angular\\CARRENTAL\\src\\TokenAuth\\TokenAuth.csproj",
+        "projectUniqueName": "C:\\Users\\karthi.baskar\\Downloads\\Carrental Application\\Carrental Application\\Angular\\CARRENTAL\\src\\TokenAuth\\TokenAuth.csproj",
         "projectName": "TokenAuth",
-        "projectPath": "D:\\karthick work\\Carrental Application\\Angular\\CARRENTAL\\src\\TokenAuth\\TokenAuth.csproj",
-        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "D:\\karthick work\\Carrental Application\\Angular\\CARRENTAL\\src\\TokenAuth\\obj\\",
+        "projectPath": "C:\\Users\\karthi.baskar\\Downloads\\Carrental Application\\Carrental Application\\Angular\\CARRENTAL\\src\\TokenAuth\\TokenAuth.csproj",
+        "packagesPath": "C:\\Users\\karthi.baskar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\karthi.baskar\\Downloads\\Carrental Application\\Carrental Application\\Angular\\CARRENTAL\\src\\TokenAuth\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\karthi.baskar\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -70,6 +70,10 @@
               "target": "Package",
               "version": "[7.0.5, )"
             },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.2.8, )"
+            },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[7.0.7, )"
@@ -94,6 +98,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[7.0.15, 7.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -102,7 +124,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
